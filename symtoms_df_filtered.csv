@@ -1,0 +1,2041 @@
+Unnamed: 0,Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4
+0,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+1,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
+2,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
+3,Fungal infection,itching, skin_rash, dischromic _patches,
+4,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
+5,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
+6,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
+7,Fungal infection,itching, skin_rash, dischromic _patches,
+8,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
+9,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+10,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+11,Allergy, shivering, chills, watering_from_eyes,
+12,Allergy, continuous_sneezing, chills, watering_from_eyes,
+13,Allergy, continuous_sneezing, shivering, watering_from_eyes,
+14,Allergy, continuous_sneezing, shivering, chills,
+15,Allergy, shivering, chills, watering_from_eyes,
+16,Allergy, continuous_sneezing, chills, watering_from_eyes,
+17,Allergy, continuous_sneezing, shivering, watering_from_eyes,
+18,Allergy, continuous_sneezing, shivering, chills,
+19,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+20,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+21,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough
+22,GERD, stomach_pain, acidity, vomiting, cough
+23,GERD, stomach_pain, acidity, ulcers_on_tongue, cough
+24,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+25,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+26,GERD, acidity, ulcers_on_tongue, vomiting, cough
+27,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough
+28,GERD, stomach_pain, acidity, vomiting, cough
+29,GERD, stomach_pain, acidity, ulcers_on_tongue, cough
+40,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+41,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination
+42,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
+43,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
+44,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+45,Drug Reaction, skin_rash, stomach_pain, burning_micturition, spotting_ urination
+46,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination
+47,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
+48,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
+49,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+80,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+81,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+82,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
+83,Gastroenteritis, vomiting, dehydration, diarrhoea,
+84,Gastroenteritis, vomiting, sunken_eyes, diarrhoea,
+85,Gastroenteritis, vomiting, sunken_eyes, dehydration,
+86,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+87,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
+88,Gastroenteritis, vomiting, dehydration, diarrhoea,
+89,Gastroenteritis, vomiting, sunken_eyes, diarrhoea,
+110,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+111,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger
+112,Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger
+113,Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive_hunger
+114,Migraine, acidity, indigestion, headache, excessive_hunger
+115,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+116,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+117,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+118,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+119,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+120,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+121,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+122,Cervical spondylosis, weakness_in_limbs, neck_pain, dizziness, loss_of_balance
+123,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance
+124,Cervical spondylosis, back_pain, weakness_in_limbs, dizziness, loss_of_balance
+125,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, loss_of_balance
+126,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+127,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+128,Cervical spondylosis, weakness_in_limbs, neck_pain, dizziness, loss_of_balance
+129,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance
+150,Malaria, chills, vomiting, high_fever, sweating
+151,Malaria, chills, vomiting, high_fever, sweating
+152,Malaria, chills, vomiting, high_fever, sweating
+153,Malaria, vomiting, high_fever, sweating, headache
+154,Malaria, chills, high_fever, sweating, headache
+155,Malaria, chills, vomiting, sweating, headache
+156,Malaria, chills, vomiting, high_fever, headache
+157,Malaria, chills, vomiting, high_fever, sweating
+158,Malaria, chills, vomiting, high_fever, sweating
+159,Malaria, chills, vomiting, high_fever, sweating
+160,Chicken pox,itching, skin_rash, fatigue, lethargy
+161,Chicken pox, skin_rash, fatigue, lethargy, high_fever
+162,Chicken pox,itching, fatigue, lethargy, high_fever
+163,Chicken pox,itching, skin_rash, lethargy, high_fever
+164,Chicken pox,itching, skin_rash, fatigue, high_fever
+165,Chicken pox,itching, skin_rash, fatigue, lethargy
+166,Chicken pox,itching, skin_rash, fatigue, lethargy
+167,Chicken pox,itching, skin_rash, fatigue, lethargy
+168,Chicken pox,itching, skin_rash, fatigue, lethargy
+169,Chicken pox,itching, skin_rash, fatigue, lethargy
+170,Dengue, skin_rash, chills, joint_pain, vomiting
+171,Dengue, skin_rash, chills, joint_pain, vomiting
+172,Dengue, skin_rash, chills, joint_pain, vomiting
+173,Dengue, skin_rash, chills, joint_pain, vomiting
+174,Dengue, chills, joint_pain, vomiting, fatigue
+175,Dengue, skin_rash, joint_pain, vomiting, fatigue
+176,Dengue, skin_rash, chills, vomiting, fatigue
+177,Dengue, skin_rash, chills, joint_pain, fatigue
+178,Dengue, skin_rash, chills, joint_pain, vomiting
+179,Dengue, skin_rash, chills, joint_pain, vomiting
+250,Tuberculosis, chills, vomiting, fatigue, weight_loss
+251,Tuberculosis, chills, vomiting, fatigue, weight_loss
+252,Tuberculosis, vomiting, fatigue, weight_loss, cough
+253,Tuberculosis, chills, fatigue, weight_loss, cough
+254,Tuberculosis, chills, vomiting, weight_loss, cough
+255,Tuberculosis, chills, vomiting, fatigue, cough
+256,Tuberculosis, chills, vomiting, fatigue, weight_loss
+257,Tuberculosis, chills, vomiting, fatigue, weight_loss
+258,Tuberculosis, chills, vomiting, fatigue, weight_loss
+259,Tuberculosis, chills, vomiting, fatigue, weight_loss
+270,Pneumonia, chills, fatigue, cough, high_fever
+271,Pneumonia, chills, fatigue, cough, high_fever
+272,Pneumonia, chills, fatigue, cough, high_fever
+273,Pneumonia, fatigue, cough, high_fever, breathlessness
+274,Pneumonia, chills, cough, high_fever, breathlessness
+275,Pneumonia, chills, fatigue, high_fever, breathlessness
+276,Pneumonia, chills, fatigue, cough, breathlessness
+277,Pneumonia, chills, fatigue, cough, high_fever
+278,Pneumonia, chills, fatigue, cough, high_fever
+279,Pneumonia, chills, fatigue, cough, high_fever
+330,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+331,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+332,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+333,Hypoglycemia, fatigue, anxiety, sweating, headache
+334,Hypoglycemia, vomiting, anxiety, sweating, headache
+335,Hypoglycemia, vomiting, fatigue, sweating, headache
+336,Hypoglycemia, vomiting, fatigue, anxiety, headache
+337,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+338,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+339,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+370,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+371,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+372,Acne, pus_filled_pimples, blackheads, scurring,
+373,Acne, skin_rash, blackheads, scurring,
+374,Acne, skin_rash, pus_filled_pimples, scurring,
+375,Acne, skin_rash, pus_filled_pimples, blackheads,
+376,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+377,Acne, skin_rash, pus_filled_pimples, blackheads,
+378,Acne, skin_rash, pus_filled_pimples, scurring,
+379,Acne, skin_rash, blackheads, scurring,
+380,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+381,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+382,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,
+383,Urinary tract infection, burning_micturition, foul_smell_of urine, continuous_feel_of_urine,
+384,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+385,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine,
+386,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+387,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+388,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,
+389,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+390,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+391,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+392,Psoriasis, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails
+393,Psoriasis, skin_rash, skin_peeling, silver_like_dusting, small_dents_in_nails
+394,Psoriasis, skin_rash, joint_pain, silver_like_dusting, small_dents_in_nails
+395,Psoriasis, skin_rash, joint_pain, skin_peeling, small_dents_in_nails
+396,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+397,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+398,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+399,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+400,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+401,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+402,Impetigo, high_fever, blister, red_sore_around_nose, yellow_crust_ooze
+403,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+404,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+405,Impetigo, skin_rash, high_fever, red_sore_around_nose, yellow_crust_ooze
+406,Impetigo, skin_rash, high_fever, blister, yellow_crust_ooze
+407,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+408,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+409,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+410,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+411,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
+412,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
+413,Fungal infection,itching, skin_rash, dischromic _patches,
+414,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
+415,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
+416,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
+417,Fungal infection,itching, skin_rash, dischromic _patches,
+418,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
+419,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+420,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+421,Allergy, shivering, chills, watering_from_eyes,
+422,Allergy, continuous_sneezing, chills, watering_from_eyes,
+423,Allergy, continuous_sneezing, shivering, watering_from_eyes,
+424,Allergy, continuous_sneezing, shivering, chills,
+425,Allergy, shivering, chills, watering_from_eyes,
+426,Allergy, continuous_sneezing, chills, watering_from_eyes,
+427,Allergy, continuous_sneezing, shivering, watering_from_eyes,
+428,Allergy, continuous_sneezing, shivering, chills,
+429,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+430,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+431,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough
+432,GERD, stomach_pain, acidity, vomiting, cough
+433,GERD, stomach_pain, acidity, ulcers_on_tongue, cough
+434,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+435,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+436,GERD, acidity, ulcers_on_tongue, vomiting, cough
+437,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough
+438,GERD, stomach_pain, acidity, vomiting, cough
+439,GERD, stomach_pain, acidity, ulcers_on_tongue, cough
+450,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+451,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination
+452,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
+453,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
+454,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+455,Drug Reaction, skin_rash, stomach_pain, burning_micturition, spotting_ urination
+456,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination
+457,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
+458,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
+459,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+490,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+491,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+492,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
+493,Gastroenteritis, vomiting, dehydration, diarrhoea,
+494,Gastroenteritis, vomiting, sunken_eyes, diarrhoea,
+495,Gastroenteritis, vomiting, sunken_eyes, dehydration,
+496,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+497,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
+498,Gastroenteritis, vomiting, dehydration, diarrhoea,
+499,Gastroenteritis, vomiting, sunken_eyes, diarrhoea,
+520,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+521,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger
+522,Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger
+523,Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive_hunger
+524,Migraine, acidity, indigestion, headache, excessive_hunger
+525,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+526,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+527,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+528,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+529,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+530,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+531,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+532,Cervical spondylosis, weakness_in_limbs, neck_pain, dizziness, loss_of_balance
+533,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance
+534,Cervical spondylosis, back_pain, weakness_in_limbs, dizziness, loss_of_balance
+535,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, loss_of_balance
+536,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+537,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+538,Cervical spondylosis, weakness_in_limbs, neck_pain, dizziness, loss_of_balance
+539,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance
+560,Malaria, chills, vomiting, high_fever, sweating
+561,Malaria, chills, vomiting, high_fever, sweating
+562,Malaria, chills, vomiting, high_fever, sweating
+563,Malaria, vomiting, high_fever, sweating, headache
+564,Malaria, chills, high_fever, sweating, headache
+565,Malaria, chills, vomiting, sweating, headache
+566,Malaria, chills, vomiting, high_fever, headache
+567,Malaria, chills, vomiting, high_fever, sweating
+568,Malaria, chills, vomiting, high_fever, sweating
+569,Malaria, chills, vomiting, high_fever, sweating
+570,Chicken pox,itching, skin_rash, fatigue, lethargy
+571,Chicken pox, skin_rash, fatigue, lethargy, high_fever
+572,Chicken pox,itching, fatigue, lethargy, high_fever
+573,Chicken pox,itching, skin_rash, lethargy, high_fever
+574,Chicken pox,itching, skin_rash, fatigue, high_fever
+575,Chicken pox,itching, skin_rash, fatigue, lethargy
+576,Chicken pox,itching, skin_rash, fatigue, lethargy
+577,Chicken pox,itching, skin_rash, fatigue, lethargy
+578,Chicken pox,itching, skin_rash, fatigue, lethargy
+579,Chicken pox,itching, skin_rash, fatigue, lethargy
+580,Dengue, skin_rash, chills, joint_pain, vomiting
+581,Dengue, skin_rash, chills, joint_pain, vomiting
+582,Dengue, skin_rash, chills, joint_pain, vomiting
+583,Dengue, skin_rash, chills, joint_pain, vomiting
+584,Dengue, chills, joint_pain, vomiting, fatigue
+585,Dengue, skin_rash, joint_pain, vomiting, fatigue
+586,Dengue, skin_rash, chills, vomiting, fatigue
+587,Dengue, skin_rash, chills, joint_pain, fatigue
+588,Dengue, skin_rash, chills, joint_pain, vomiting
+589,Dengue, skin_rash, chills, joint_pain, vomiting
+660,Tuberculosis, chills, vomiting, fatigue, weight_loss
+661,Tuberculosis, chills, vomiting, fatigue, weight_loss
+662,Tuberculosis, vomiting, fatigue, weight_loss, cough
+663,Tuberculosis, chills, fatigue, weight_loss, cough
+664,Tuberculosis, chills, vomiting, weight_loss, cough
+665,Tuberculosis, chills, vomiting, fatigue, cough
+666,Tuberculosis, chills, vomiting, fatigue, weight_loss
+667,Tuberculosis, chills, vomiting, fatigue, weight_loss
+668,Tuberculosis, chills, vomiting, fatigue, weight_loss
+669,Tuberculosis, chills, vomiting, fatigue, weight_loss
+680,Pneumonia, chills, fatigue, cough, high_fever
+681,Pneumonia, chills, fatigue, cough, high_fever
+682,Pneumonia, chills, fatigue, cough, high_fever
+683,Pneumonia, fatigue, cough, high_fever, breathlessness
+684,Pneumonia, chills, cough, high_fever, breathlessness
+685,Pneumonia, chills, fatigue, high_fever, breathlessness
+686,Pneumonia, chills, fatigue, cough, breathlessness
+687,Pneumonia, chills, fatigue, cough, high_fever
+688,Pneumonia, chills, fatigue, cough, high_fever
+689,Pneumonia, chills, fatigue, cough, high_fever
+740,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+741,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+742,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+743,Hypoglycemia, fatigue, anxiety, sweating, headache
+744,Hypoglycemia, vomiting, anxiety, sweating, headache
+745,Hypoglycemia, vomiting, fatigue, sweating, headache
+746,Hypoglycemia, vomiting, fatigue, anxiety, headache
+747,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+748,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+749,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+780,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+781,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+782,Acne, pus_filled_pimples, blackheads, scurring,
+783,Acne, skin_rash, blackheads, scurring,
+784,Acne, skin_rash, pus_filled_pimples, scurring,
+785,Acne, skin_rash, pus_filled_pimples, blackheads,
+786,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+787,Acne, skin_rash, pus_filled_pimples, blackheads,
+788,Acne, skin_rash, pus_filled_pimples, scurring,
+789,Acne, skin_rash, blackheads, scurring,
+790,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+791,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+792,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,
+793,Urinary tract infection, burning_micturition, foul_smell_of urine, continuous_feel_of_urine,
+794,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+795,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine,
+796,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+797,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+798,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,
+799,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+800,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+801,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+802,Psoriasis, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails
+803,Psoriasis, skin_rash, skin_peeling, silver_like_dusting, small_dents_in_nails
+804,Psoriasis, skin_rash, joint_pain, silver_like_dusting, small_dents_in_nails
+805,Psoriasis, skin_rash, joint_pain, skin_peeling, small_dents_in_nails
+806,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+807,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+808,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+809,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+810,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+811,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+812,Impetigo, high_fever, blister, red_sore_around_nose, yellow_crust_ooze
+813,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+814,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+815,Impetigo, skin_rash, high_fever, red_sore_around_nose, yellow_crust_ooze
+816,Impetigo, skin_rash, high_fever, blister, yellow_crust_ooze
+817,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+818,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+819,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+820,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+821,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
+822,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
+823,Fungal infection,itching, skin_rash, dischromic _patches,
+824,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
+825,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
+826,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
+827,Fungal infection,itching, skin_rash, dischromic _patches,
+828,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
+829,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+830,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+831,Allergy, shivering, chills, watering_from_eyes,
+832,Allergy, continuous_sneezing, chills, watering_from_eyes,
+833,Allergy, continuous_sneezing, shivering, watering_from_eyes,
+834,Allergy, continuous_sneezing, shivering, chills,
+835,Allergy, shivering, chills, watering_from_eyes,
+836,Allergy, continuous_sneezing, chills, watering_from_eyes,
+837,Allergy, continuous_sneezing, shivering, watering_from_eyes,
+838,Allergy, continuous_sneezing, shivering, chills,
+839,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+840,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+841,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough
+842,GERD, stomach_pain, acidity, vomiting, cough
+843,GERD, stomach_pain, acidity, ulcers_on_tongue, cough
+844,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+845,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+846,GERD, acidity, ulcers_on_tongue, vomiting, cough
+847,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough
+848,GERD, stomach_pain, acidity, vomiting, cough
+849,GERD, stomach_pain, acidity, ulcers_on_tongue, cough
+860,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+861,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination
+862,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
+863,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
+864,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+865,Drug Reaction, skin_rash, stomach_pain, burning_micturition, spotting_ urination
+866,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination
+867,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
+868,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
+869,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+900,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+901,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+902,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
+903,Gastroenteritis, vomiting, dehydration, diarrhoea,
+904,Gastroenteritis, vomiting, sunken_eyes, diarrhoea,
+905,Gastroenteritis, vomiting, sunken_eyes, dehydration,
+906,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+907,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
+908,Gastroenteritis, vomiting, dehydration, diarrhoea,
+909,Gastroenteritis, vomiting, sunken_eyes, diarrhoea,
+930,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+931,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger
+932,Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger
+933,Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive_hunger
+934,Migraine, acidity, indigestion, headache, excessive_hunger
+935,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+936,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+937,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+938,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+939,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+940,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+941,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+942,Cervical spondylosis, weakness_in_limbs, neck_pain, dizziness, loss_of_balance
+943,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance
+944,Cervical spondylosis, back_pain, weakness_in_limbs, dizziness, loss_of_balance
+945,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, loss_of_balance
+946,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+947,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+948,Cervical spondylosis, weakness_in_limbs, neck_pain, dizziness, loss_of_balance
+949,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance
+970,Malaria, chills, vomiting, high_fever, sweating
+971,Malaria, chills, vomiting, high_fever, sweating
+972,Malaria, chills, vomiting, high_fever, sweating
+973,Malaria, vomiting, high_fever, sweating, headache
+974,Malaria, chills, high_fever, sweating, headache
+975,Malaria, chills, vomiting, sweating, headache
+976,Malaria, chills, vomiting, high_fever, headache
+977,Malaria, chills, vomiting, high_fever, sweating
+978,Malaria, chills, vomiting, high_fever, sweating
+979,Malaria, chills, vomiting, high_fever, sweating
+980,Chicken pox,itching, skin_rash, fatigue, lethargy
+981,Chicken pox, skin_rash, fatigue, lethargy, high_fever
+982,Chicken pox,itching, fatigue, lethargy, high_fever
+983,Chicken pox,itching, skin_rash, lethargy, high_fever
+984,Chicken pox,itching, skin_rash, fatigue, high_fever
+985,Chicken pox,itching, skin_rash, fatigue, lethargy
+986,Chicken pox,itching, skin_rash, fatigue, lethargy
+987,Chicken pox,itching, skin_rash, fatigue, lethargy
+988,Chicken pox,itching, skin_rash, fatigue, lethargy
+989,Chicken pox,itching, skin_rash, fatigue, lethargy
+990,Dengue, skin_rash, chills, joint_pain, vomiting
+991,Dengue, skin_rash, chills, joint_pain, vomiting
+992,Dengue, skin_rash, chills, joint_pain, vomiting
+993,Dengue, skin_rash, chills, joint_pain, vomiting
+994,Dengue, chills, joint_pain, vomiting, fatigue
+995,Dengue, skin_rash, joint_pain, vomiting, fatigue
+996,Dengue, skin_rash, chills, vomiting, fatigue
+997,Dengue, skin_rash, chills, joint_pain, fatigue
+998,Dengue, skin_rash, chills, joint_pain, vomiting
+999,Dengue, skin_rash, chills, joint_pain, vomiting
+1070,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1071,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1072,Tuberculosis, vomiting, fatigue, weight_loss, cough
+1073,Tuberculosis, chills, fatigue, weight_loss, cough
+1074,Tuberculosis, chills, vomiting, weight_loss, cough
+1075,Tuberculosis, chills, vomiting, fatigue, cough
+1076,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1077,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1078,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1079,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1090,Pneumonia, chills, fatigue, cough, high_fever
+1091,Pneumonia, chills, fatigue, cough, high_fever
+1092,Pneumonia, chills, fatigue, cough, high_fever
+1093,Pneumonia, fatigue, cough, high_fever, breathlessness
+1094,Pneumonia, chills, cough, high_fever, breathlessness
+1095,Pneumonia, chills, fatigue, high_fever, breathlessness
+1096,Pneumonia, chills, fatigue, cough, breathlessness
+1097,Pneumonia, chills, fatigue, cough, high_fever
+1098,Pneumonia, chills, fatigue, cough, high_fever
+1099,Pneumonia, chills, fatigue, cough, high_fever
+1150,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1151,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1152,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1153,Hypoglycemia, fatigue, anxiety, sweating, headache
+1154,Hypoglycemia, vomiting, anxiety, sweating, headache
+1155,Hypoglycemia, vomiting, fatigue, sweating, headache
+1156,Hypoglycemia, vomiting, fatigue, anxiety, headache
+1157,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1158,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1159,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1190,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+1191,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+1192,Acne, pus_filled_pimples, blackheads, scurring,
+1193,Acne, skin_rash, blackheads, scurring,
+1194,Acne, skin_rash, pus_filled_pimples, scurring,
+1195,Acne, skin_rash, pus_filled_pimples, blackheads,
+1196,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+1197,Acne, skin_rash, pus_filled_pimples, blackheads,
+1198,Acne, skin_rash, pus_filled_pimples, scurring,
+1199,Acne, skin_rash, blackheads, scurring,
+1200,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+1201,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+1202,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,
+1203,Urinary tract infection, burning_micturition, foul_smell_of urine, continuous_feel_of_urine,
+1204,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+1205,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine,
+1206,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+1207,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+1208,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,
+1209,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+1210,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+1211,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+1212,Psoriasis, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails
+1213,Psoriasis, skin_rash, skin_peeling, silver_like_dusting, small_dents_in_nails
+1214,Psoriasis, skin_rash, joint_pain, silver_like_dusting, small_dents_in_nails
+1215,Psoriasis, skin_rash, joint_pain, skin_peeling, small_dents_in_nails
+1216,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+1217,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+1218,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+1219,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+1220,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+1221,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+1222,Impetigo, high_fever, blister, red_sore_around_nose, yellow_crust_ooze
+1223,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+1224,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+1225,Impetigo, skin_rash, high_fever, red_sore_around_nose, yellow_crust_ooze
+1226,Impetigo, skin_rash, high_fever, blister, yellow_crust_ooze
+1227,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+1228,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+1229,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+1230,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+1231,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
+1232,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
+1233,Fungal infection,itching, skin_rash, dischromic _patches,
+1234,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
+1235,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
+1236,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
+1237,Fungal infection,itching, skin_rash, dischromic _patches,
+1238,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
+1239,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+1240,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+1241,Allergy, shivering, chills, watering_from_eyes,
+1242,Allergy, continuous_sneezing, chills, watering_from_eyes,
+1243,Allergy, continuous_sneezing, shivering, watering_from_eyes,
+1244,Allergy, continuous_sneezing, shivering, chills,
+1245,Allergy, shivering, chills, watering_from_eyes,
+1246,Allergy, continuous_sneezing, chills, watering_from_eyes,
+1247,Allergy, continuous_sneezing, shivering, watering_from_eyes,
+1248,Allergy, continuous_sneezing, shivering, chills,
+1249,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+1250,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+1251,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough
+1252,GERD, stomach_pain, acidity, vomiting, cough
+1253,GERD, stomach_pain, acidity, ulcers_on_tongue, cough
+1254,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+1255,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+1256,GERD, acidity, ulcers_on_tongue, vomiting, cough
+1257,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough
+1258,GERD, stomach_pain, acidity, vomiting, cough
+1259,GERD, stomach_pain, acidity, ulcers_on_tongue, cough
+1270,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+1271,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination
+1272,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
+1273,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
+1274,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+1275,Drug Reaction, skin_rash, stomach_pain, burning_micturition, spotting_ urination
+1276,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination
+1277,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
+1278,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
+1279,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+1310,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+1311,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+1312,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
+1313,Gastroenteritis, vomiting, dehydration, diarrhoea,
+1314,Gastroenteritis, vomiting, sunken_eyes, diarrhoea,
+1315,Gastroenteritis, vomiting, sunken_eyes, dehydration,
+1316,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+1317,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
+1318,Gastroenteritis, vomiting, dehydration, diarrhoea,
+1319,Gastroenteritis, vomiting, sunken_eyes, diarrhoea,
+1340,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+1341,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger
+1342,Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger
+1343,Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive_hunger
+1344,Migraine, acidity, indigestion, headache, excessive_hunger
+1345,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+1346,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+1347,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+1348,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+1349,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+1350,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+1351,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+1352,Cervical spondylosis, weakness_in_limbs, neck_pain, dizziness, loss_of_balance
+1353,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance
+1354,Cervical spondylosis, back_pain, weakness_in_limbs, dizziness, loss_of_balance
+1355,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, loss_of_balance
+1356,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+1357,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+1358,Cervical spondylosis, weakness_in_limbs, neck_pain, dizziness, loss_of_balance
+1359,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance
+1380,Malaria, chills, vomiting, high_fever, sweating
+1381,Malaria, chills, vomiting, high_fever, sweating
+1382,Malaria, chills, vomiting, high_fever, sweating
+1383,Malaria, vomiting, high_fever, sweating, headache
+1384,Malaria, chills, high_fever, sweating, headache
+1385,Malaria, chills, vomiting, sweating, headache
+1386,Malaria, chills, vomiting, high_fever, headache
+1387,Malaria, chills, vomiting, high_fever, sweating
+1388,Malaria, chills, vomiting, high_fever, sweating
+1389,Malaria, chills, vomiting, high_fever, sweating
+1390,Chicken pox,itching, skin_rash, fatigue, lethargy
+1391,Chicken pox, skin_rash, fatigue, lethargy, high_fever
+1392,Chicken pox,itching, fatigue, lethargy, high_fever
+1393,Chicken pox,itching, skin_rash, lethargy, high_fever
+1394,Chicken pox,itching, skin_rash, fatigue, high_fever
+1395,Chicken pox,itching, skin_rash, fatigue, lethargy
+1396,Chicken pox,itching, skin_rash, fatigue, lethargy
+1397,Chicken pox,itching, skin_rash, fatigue, lethargy
+1398,Chicken pox,itching, skin_rash, fatigue, lethargy
+1399,Chicken pox,itching, skin_rash, fatigue, lethargy
+1400,Dengue, skin_rash, chills, joint_pain, vomiting
+1401,Dengue, skin_rash, chills, joint_pain, vomiting
+1402,Dengue, skin_rash, chills, joint_pain, vomiting
+1403,Dengue, skin_rash, chills, joint_pain, vomiting
+1404,Dengue, chills, joint_pain, vomiting, fatigue
+1405,Dengue, skin_rash, joint_pain, vomiting, fatigue
+1406,Dengue, skin_rash, chills, vomiting, fatigue
+1407,Dengue, skin_rash, chills, joint_pain, fatigue
+1408,Dengue, skin_rash, chills, joint_pain, vomiting
+1409,Dengue, skin_rash, chills, joint_pain, vomiting
+1480,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1481,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1482,Tuberculosis, vomiting, fatigue, weight_loss, cough
+1483,Tuberculosis, chills, fatigue, weight_loss, cough
+1484,Tuberculosis, chills, vomiting, weight_loss, cough
+1485,Tuberculosis, chills, vomiting, fatigue, cough
+1486,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1487,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1488,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1489,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1500,Pneumonia, chills, fatigue, cough, high_fever
+1501,Pneumonia, chills, fatigue, cough, high_fever
+1502,Pneumonia, chills, fatigue, cough, high_fever
+1503,Pneumonia, fatigue, cough, high_fever, breathlessness
+1504,Pneumonia, chills, cough, high_fever, breathlessness
+1505,Pneumonia, chills, fatigue, high_fever, breathlessness
+1506,Pneumonia, chills, fatigue, cough, breathlessness
+1507,Pneumonia, chills, fatigue, cough, high_fever
+1508,Pneumonia, chills, fatigue, cough, high_fever
+1509,Pneumonia, chills, fatigue, cough, high_fever
+1560,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1561,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1562,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1563,Hypoglycemia, fatigue, anxiety, sweating, headache
+1564,Hypoglycemia, vomiting, anxiety, sweating, headache
+1565,Hypoglycemia, vomiting, fatigue, sweating, headache
+1566,Hypoglycemia, vomiting, fatigue, anxiety, headache
+1567,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1568,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1569,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1600,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+1601,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+1602,Acne, pus_filled_pimples, blackheads, scurring,
+1603,Acne, skin_rash, blackheads, scurring,
+1604,Acne, skin_rash, pus_filled_pimples, scurring,
+1605,Acne, skin_rash, pus_filled_pimples, blackheads,
+1606,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+1607,Acne, skin_rash, pus_filled_pimples, blackheads,
+1608,Acne, skin_rash, pus_filled_pimples, scurring,
+1609,Acne, skin_rash, blackheads, scurring,
+1610,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+1611,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+1612,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,
+1613,Urinary tract infection, burning_micturition, foul_smell_of urine, continuous_feel_of_urine,
+1614,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+1615,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine,
+1616,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+1617,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+1618,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,
+1619,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+1620,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+1621,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+1622,Psoriasis, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails
+1623,Psoriasis, skin_rash, skin_peeling, silver_like_dusting, small_dents_in_nails
+1624,Psoriasis, skin_rash, joint_pain, silver_like_dusting, small_dents_in_nails
+1625,Psoriasis, skin_rash, joint_pain, skin_peeling, small_dents_in_nails
+1626,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+1627,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+1628,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+1629,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+1630,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+1631,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+1632,Impetigo, high_fever, blister, red_sore_around_nose, yellow_crust_ooze
+1633,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+1634,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+1635,Impetigo, skin_rash, high_fever, red_sore_around_nose, yellow_crust_ooze
+1636,Impetigo, skin_rash, high_fever, blister, yellow_crust_ooze
+1637,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+1638,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+1639,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+1640,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+1641,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
+1642,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
+1643,Fungal infection,itching, skin_rash, dischromic _patches,
+1644,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
+1645,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
+1646,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
+1647,Fungal infection,itching, skin_rash, dischromic _patches,
+1648,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
+1649,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+1650,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+1651,Allergy, shivering, chills, watering_from_eyes,
+1652,Allergy, continuous_sneezing, chills, watering_from_eyes,
+1653,Allergy, continuous_sneezing, shivering, watering_from_eyes,
+1654,Allergy, continuous_sneezing, shivering, chills,
+1655,Allergy, shivering, chills, watering_from_eyes,
+1656,Allergy, continuous_sneezing, chills, watering_from_eyes,
+1657,Allergy, continuous_sneezing, shivering, watering_from_eyes,
+1658,Allergy, continuous_sneezing, shivering, chills,
+1659,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+1660,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+1661,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough
+1662,GERD, stomach_pain, acidity, vomiting, cough
+1663,GERD, stomach_pain, acidity, ulcers_on_tongue, cough
+1664,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+1665,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+1666,GERD, acidity, ulcers_on_tongue, vomiting, cough
+1667,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough
+1668,GERD, stomach_pain, acidity, vomiting, cough
+1669,GERD, stomach_pain, acidity, ulcers_on_tongue, cough
+1680,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+1681,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination
+1682,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
+1683,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
+1684,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+1685,Drug Reaction, skin_rash, stomach_pain, burning_micturition, spotting_ urination
+1686,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination
+1687,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
+1688,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
+1689,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+1720,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+1721,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+1722,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
+1723,Gastroenteritis, vomiting, dehydration, diarrhoea,
+1724,Gastroenteritis, vomiting, sunken_eyes, diarrhoea,
+1725,Gastroenteritis, vomiting, sunken_eyes, dehydration,
+1726,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+1727,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
+1728,Gastroenteritis, vomiting, dehydration, diarrhoea,
+1729,Gastroenteritis, vomiting, sunken_eyes, diarrhoea,
+1750,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+1751,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger
+1752,Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger
+1753,Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive_hunger
+1754,Migraine, acidity, indigestion, headache, excessive_hunger
+1755,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+1756,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+1757,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+1758,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+1759,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+1760,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+1761,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+1762,Cervical spondylosis, weakness_in_limbs, neck_pain, dizziness, loss_of_balance
+1763,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance
+1764,Cervical spondylosis, back_pain, weakness_in_limbs, dizziness, loss_of_balance
+1765,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, loss_of_balance
+1766,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+1767,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+1768,Cervical spondylosis, weakness_in_limbs, neck_pain, dizziness, loss_of_balance
+1769,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance
+1790,Malaria, chills, vomiting, high_fever, sweating
+1791,Malaria, chills, vomiting, high_fever, sweating
+1792,Malaria, chills, vomiting, high_fever, sweating
+1793,Malaria, vomiting, high_fever, sweating, headache
+1794,Malaria, chills, high_fever, sweating, headache
+1795,Malaria, chills, vomiting, sweating, headache
+1796,Malaria, chills, vomiting, high_fever, headache
+1797,Malaria, chills, vomiting, high_fever, sweating
+1798,Malaria, chills, vomiting, high_fever, sweating
+1799,Malaria, chills, vomiting, high_fever, sweating
+1800,Chicken pox,itching, skin_rash, fatigue, lethargy
+1801,Chicken pox, skin_rash, fatigue, lethargy, high_fever
+1802,Chicken pox,itching, fatigue, lethargy, high_fever
+1803,Chicken pox,itching, skin_rash, lethargy, high_fever
+1804,Chicken pox,itching, skin_rash, fatigue, high_fever
+1805,Chicken pox,itching, skin_rash, fatigue, lethargy
+1806,Chicken pox,itching, skin_rash, fatigue, lethargy
+1807,Chicken pox,itching, skin_rash, fatigue, lethargy
+1808,Chicken pox,itching, skin_rash, fatigue, lethargy
+1809,Chicken pox,itching, skin_rash, fatigue, lethargy
+1810,Dengue, skin_rash, chills, joint_pain, vomiting
+1811,Dengue, skin_rash, chills, joint_pain, vomiting
+1812,Dengue, skin_rash, chills, joint_pain, vomiting
+1813,Dengue, skin_rash, chills, joint_pain, vomiting
+1814,Dengue, chills, joint_pain, vomiting, fatigue
+1815,Dengue, skin_rash, joint_pain, vomiting, fatigue
+1816,Dengue, skin_rash, chills, vomiting, fatigue
+1817,Dengue, skin_rash, chills, joint_pain, fatigue
+1818,Dengue, skin_rash, chills, joint_pain, vomiting
+1819,Dengue, skin_rash, chills, joint_pain, vomiting
+1890,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1891,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1892,Tuberculosis, vomiting, fatigue, weight_loss, cough
+1893,Tuberculosis, chills, fatigue, weight_loss, cough
+1894,Tuberculosis, chills, vomiting, weight_loss, cough
+1895,Tuberculosis, chills, vomiting, fatigue, cough
+1896,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1897,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1898,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1899,Tuberculosis, chills, vomiting, fatigue, weight_loss
+1910,Pneumonia, chills, fatigue, cough, high_fever
+1911,Pneumonia, chills, fatigue, cough, high_fever
+1912,Pneumonia, chills, fatigue, cough, high_fever
+1913,Pneumonia, fatigue, cough, high_fever, breathlessness
+1914,Pneumonia, chills, cough, high_fever, breathlessness
+1915,Pneumonia, chills, fatigue, high_fever, breathlessness
+1916,Pneumonia, chills, fatigue, cough, breathlessness
+1917,Pneumonia, chills, fatigue, cough, high_fever
+1918,Pneumonia, chills, fatigue, cough, high_fever
+1919,Pneumonia, chills, fatigue, cough, high_fever
+1970,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1971,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1972,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1973,Hypoglycemia, fatigue, anxiety, sweating, headache
+1974,Hypoglycemia, vomiting, anxiety, sweating, headache
+1975,Hypoglycemia, vomiting, fatigue, sweating, headache
+1976,Hypoglycemia, vomiting, fatigue, anxiety, headache
+1977,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1978,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+1979,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2010,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2011,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2012,Acne, pus_filled_pimples, blackheads, scurring,
+2013,Acne, skin_rash, blackheads, scurring,
+2014,Acne, skin_rash, pus_filled_pimples, scurring,
+2015,Acne, skin_rash, pus_filled_pimples, blackheads,
+2016,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2017,Acne, skin_rash, pus_filled_pimples, blackheads,
+2018,Acne, skin_rash, pus_filled_pimples, scurring,
+2019,Acne, skin_rash, blackheads, scurring,
+2020,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2021,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2022,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,
+2023,Urinary tract infection, burning_micturition, foul_smell_of urine, continuous_feel_of_urine,
+2024,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+2025,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine,
+2026,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2027,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+2028,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,
+2029,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+2030,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2031,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2032,Psoriasis, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails
+2033,Psoriasis, skin_rash, skin_peeling, silver_like_dusting, small_dents_in_nails
+2034,Psoriasis, skin_rash, joint_pain, silver_like_dusting, small_dents_in_nails
+2035,Psoriasis, skin_rash, joint_pain, skin_peeling, small_dents_in_nails
+2036,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2037,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2038,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2039,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2040,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2041,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2042,Impetigo, high_fever, blister, red_sore_around_nose, yellow_crust_ooze
+2043,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+2044,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+2045,Impetigo, skin_rash, high_fever, red_sore_around_nose, yellow_crust_ooze
+2046,Impetigo, skin_rash, high_fever, blister, yellow_crust_ooze
+2047,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2048,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2049,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+2050,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2051,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
+2052,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
+2053,Fungal infection,itching, skin_rash, dischromic _patches,
+2054,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
+2055,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
+2056,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
+2057,Fungal infection,itching, skin_rash, dischromic _patches,
+2058,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
+2059,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2060,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2061,Allergy, shivering, chills, watering_from_eyes,
+2062,Allergy, continuous_sneezing, chills, watering_from_eyes,
+2063,Allergy, continuous_sneezing, shivering, watering_from_eyes,
+2064,Allergy, continuous_sneezing, shivering, chills,
+2065,Allergy, shivering, chills, watering_from_eyes,
+2066,Allergy, continuous_sneezing, chills, watering_from_eyes,
+2067,Allergy, continuous_sneezing, shivering, watering_from_eyes,
+2068,Allergy, continuous_sneezing, shivering, chills,
+2069,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2070,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2071,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough
+2072,GERD, stomach_pain, acidity, vomiting, cough
+2073,GERD, stomach_pain, acidity, ulcers_on_tongue, cough
+2074,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2075,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2076,GERD, acidity, ulcers_on_tongue, vomiting, cough
+2077,GERD, stomach_pain, ulcers_on_tongue, vomiting, cough
+2078,GERD, stomach_pain, acidity, vomiting, cough
+2079,GERD, stomach_pain, acidity, ulcers_on_tongue, cough
+2090,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2091,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination
+2092,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
+2093,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
+2094,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2095,Drug Reaction, skin_rash, stomach_pain, burning_micturition, spotting_ urination
+2096,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination
+2097,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
+2098,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
+2099,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2130,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2131,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2132,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
+2133,Gastroenteritis, vomiting, dehydration, diarrhoea,
+2134,Gastroenteritis, vomiting, sunken_eyes, diarrhoea,
+2135,Gastroenteritis, vomiting, sunken_eyes, dehydration,
+2136,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2137,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
+2138,Gastroenteritis, vomiting, dehydration, diarrhoea,
+2139,Gastroenteritis, vomiting, sunken_eyes, diarrhoea,
+2160,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2161,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger
+2162,Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger
+2163,Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive_hunger
+2164,Migraine, acidity, indigestion, headache, excessive_hunger
+2165,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2166,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2167,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2168,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2169,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2170,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2171,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2172,Cervical spondylosis, weakness_in_limbs, neck_pain, dizziness, loss_of_balance
+2173,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance
+2174,Cervical spondylosis, back_pain, weakness_in_limbs, dizziness, loss_of_balance
+2175,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, loss_of_balance
+2176,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2177,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2178,Cervical spondylosis, weakness_in_limbs, neck_pain, dizziness, loss_of_balance
+2179,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance
+2200,Malaria, chills, vomiting, high_fever, sweating
+2201,Malaria, chills, vomiting, high_fever, sweating
+2202,Malaria, chills, vomiting, high_fever, sweating
+2203,Malaria, vomiting, high_fever, sweating, headache
+2204,Malaria, chills, high_fever, sweating, headache
+2205,Malaria, chills, vomiting, sweating, headache
+2206,Malaria, chills, vomiting, high_fever, headache
+2207,Malaria, chills, vomiting, high_fever, sweating
+2208,Malaria, chills, vomiting, high_fever, sweating
+2209,Malaria, chills, vomiting, high_fever, sweating
+2210,Chicken pox,itching, skin_rash, fatigue, lethargy
+2211,Chicken pox, skin_rash, fatigue, lethargy, high_fever
+2212,Chicken pox,itching, fatigue, lethargy, high_fever
+2213,Chicken pox,itching, skin_rash, lethargy, high_fever
+2214,Chicken pox,itching, skin_rash, fatigue, high_fever
+2215,Chicken pox,itching, skin_rash, fatigue, lethargy
+2216,Chicken pox,itching, skin_rash, fatigue, lethargy
+2217,Chicken pox,itching, skin_rash, fatigue, lethargy
+2218,Chicken pox,itching, skin_rash, fatigue, lethargy
+2219,Chicken pox,itching, skin_rash, fatigue, lethargy
+2220,Dengue, skin_rash, chills, joint_pain, vomiting
+2221,Dengue, skin_rash, chills, joint_pain, vomiting
+2222,Dengue, skin_rash, chills, joint_pain, vomiting
+2223,Dengue, skin_rash, chills, joint_pain, vomiting
+2224,Dengue, chills, joint_pain, vomiting, fatigue
+2225,Dengue, skin_rash, joint_pain, vomiting, fatigue
+2226,Dengue, skin_rash, chills, vomiting, fatigue
+2227,Dengue, skin_rash, chills, joint_pain, fatigue
+2228,Dengue, skin_rash, chills, joint_pain, vomiting
+2229,Dengue, skin_rash, chills, joint_pain, vomiting
+2300,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2301,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2302,Tuberculosis, vomiting, fatigue, weight_loss, cough
+2303,Tuberculosis, chills, fatigue, weight_loss, cough
+2304,Tuberculosis, chills, vomiting, weight_loss, cough
+2305,Tuberculosis, chills, vomiting, fatigue, cough
+2306,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2307,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2308,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2309,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2320,Pneumonia, chills, fatigue, cough, high_fever
+2321,Pneumonia, chills, fatigue, cough, high_fever
+2322,Pneumonia, chills, fatigue, cough, high_fever
+2323,Pneumonia, fatigue, cough, high_fever, breathlessness
+2324,Pneumonia, chills, cough, high_fever, breathlessness
+2325,Pneumonia, chills, fatigue, high_fever, breathlessness
+2326,Pneumonia, chills, fatigue, cough, breathlessness
+2327,Pneumonia, chills, fatigue, cough, high_fever
+2328,Pneumonia, chills, fatigue, cough, high_fever
+2329,Pneumonia, chills, fatigue, cough, high_fever
+2380,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2381,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2382,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2383,Hypoglycemia, fatigue, anxiety, sweating, headache
+2384,Hypoglycemia, vomiting, anxiety, sweating, headache
+2385,Hypoglycemia, vomiting, fatigue, sweating, headache
+2386,Hypoglycemia, vomiting, fatigue, anxiety, headache
+2387,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2388,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2389,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2420,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2421,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2422,Acne, pus_filled_pimples, blackheads, scurring,
+2423,Acne, skin_rash, blackheads, scurring,
+2424,Acne, skin_rash, pus_filled_pimples, scurring,
+2425,Acne, skin_rash, pus_filled_pimples, blackheads,
+2426,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2427,Acne, skin_rash, pus_filled_pimples, blackheads,
+2428,Acne, skin_rash, pus_filled_pimples, scurring,
+2429,Acne, skin_rash, blackheads, scurring,
+2430,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2431,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2432,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,
+2433,Urinary tract infection, burning_micturition, foul_smell_of urine, continuous_feel_of_urine,
+2434,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+2435,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine,
+2436,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2437,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+2438,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,
+2439,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+2440,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2441,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2442,Psoriasis, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails
+2443,Psoriasis, skin_rash, skin_peeling, silver_like_dusting, small_dents_in_nails
+2444,Psoriasis, skin_rash, joint_pain, silver_like_dusting, small_dents_in_nails
+2445,Psoriasis, skin_rash, joint_pain, skin_peeling, small_dents_in_nails
+2446,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2447,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2448,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2449,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2450,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2451,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2452,Impetigo, high_fever, blister, red_sore_around_nose, yellow_crust_ooze
+2453,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+2454,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+2455,Impetigo, skin_rash, high_fever, red_sore_around_nose, yellow_crust_ooze
+2456,Impetigo, skin_rash, high_fever, blister, yellow_crust_ooze
+2457,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2458,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2459,Impetigo, skin_rash, blister, red_sore_around_nose, yellow_crust_ooze
+2460,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2461,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2462,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2464,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2468,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2471,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2472,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2475,Malaria, chills, vomiting, high_fever, sweating
+2476,Chicken pox,itching, skin_rash, fatigue, lethargy
+2477,Dengue, skin_rash, chills, joint_pain, vomiting
+2485,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2487,Pneumonia, chills, fatigue, cough, high_fever
+2493,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2497,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2498,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2499,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2500,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2501,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2502,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2503,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2505,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2509,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2512,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2513,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2516,Malaria, chills, vomiting, high_fever, sweating
+2517,Chicken pox,itching, skin_rash, fatigue, lethargy
+2518,Dengue, skin_rash, chills, joint_pain, vomiting
+2526,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2528,Pneumonia, chills, fatigue, cough, high_fever
+2534,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2538,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2539,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2540,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2541,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2542,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2543,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2544,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2546,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2550,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2553,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2554,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2557,Malaria, chills, vomiting, high_fever, sweating
+2558,Chicken pox,itching, skin_rash, fatigue, lethargy
+2559,Dengue, skin_rash, chills, joint_pain, vomiting
+2567,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2569,Pneumonia, chills, fatigue, cough, high_fever
+2575,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2579,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2580,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2581,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2582,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2583,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2584,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2585,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2587,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2591,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2594,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2595,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2598,Malaria, chills, vomiting, high_fever, sweating
+2599,Chicken pox,itching, skin_rash, fatigue, lethargy
+2600,Dengue, skin_rash, chills, joint_pain, vomiting
+2608,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2610,Pneumonia, chills, fatigue, cough, high_fever
+2616,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2620,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2621,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2622,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2623,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2624,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2625,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2626,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2628,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2632,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2635,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2636,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2639,Malaria, chills, vomiting, high_fever, sweating
+2640,Chicken pox,itching, skin_rash, fatigue, lethargy
+2641,Dengue, skin_rash, chills, joint_pain, vomiting
+2649,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2651,Pneumonia, chills, fatigue, cough, high_fever
+2657,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2661,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2662,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2663,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2664,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2665,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2666,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2667,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2669,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2673,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2676,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2677,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2680,Malaria, chills, vomiting, high_fever, sweating
+2681,Chicken pox,itching, skin_rash, fatigue, lethargy
+2682,Dengue, skin_rash, chills, joint_pain, vomiting
+2690,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2692,Pneumonia, chills, fatigue, cough, high_fever
+2698,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2702,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2703,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2704,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2705,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2706,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2707,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2708,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2710,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2714,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2717,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2718,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2721,Malaria, chills, vomiting, high_fever, sweating
+2722,Chicken pox,itching, skin_rash, fatigue, lethargy
+2723,Dengue, skin_rash, chills, joint_pain, vomiting
+2731,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2733,Pneumonia, chills, fatigue, cough, high_fever
+2739,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2743,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2744,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2745,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2746,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2747,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2748,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2749,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2751,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2755,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2758,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2759,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2762,Malaria, chills, vomiting, high_fever, sweating
+2763,Chicken pox,itching, skin_rash, fatigue, lethargy
+2764,Dengue, skin_rash, chills, joint_pain, vomiting
+2772,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2774,Pneumonia, chills, fatigue, cough, high_fever
+2780,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2784,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2785,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2786,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2787,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2788,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2789,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2790,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2792,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2796,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2799,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2800,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2803,Malaria, chills, vomiting, high_fever, sweating
+2804,Chicken pox,itching, skin_rash, fatigue, lethargy
+2805,Dengue, skin_rash, chills, joint_pain, vomiting
+2813,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2815,Pneumonia, chills, fatigue, cough, high_fever
+2821,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2825,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2826,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2827,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2828,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2829,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2830,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2831,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2833,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2837,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2840,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2841,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2844,Malaria, chills, vomiting, high_fever, sweating
+2845,Chicken pox,itching, skin_rash, fatigue, lethargy
+2846,Dengue, skin_rash, chills, joint_pain, vomiting
+2854,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2856,Pneumonia, chills, fatigue, cough, high_fever
+2862,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2866,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2867,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2868,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2869,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2870,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2871,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2872,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2874,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2878,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2881,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2882,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2885,Malaria, chills, vomiting, high_fever, sweating
+2886,Chicken pox,itching, skin_rash, fatigue, lethargy
+2887,Dengue, skin_rash, chills, joint_pain, vomiting
+2895,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2897,Pneumonia, chills, fatigue, cough, high_fever
+2903,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2907,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2908,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2909,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2910,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2911,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2912,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2913,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2915,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2919,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2922,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2923,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2926,Malaria, chills, vomiting, high_fever, sweating
+2927,Chicken pox,itching, skin_rash, fatigue, lethargy
+2928,Dengue, skin_rash, chills, joint_pain, vomiting
+2936,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2938,Pneumonia, chills, fatigue, cough, high_fever
+2944,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2948,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2949,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2950,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2951,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2952,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2953,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2954,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2956,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+2960,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+2963,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2964,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+2967,Malaria, chills, vomiting, high_fever, sweating
+2968,Chicken pox,itching, skin_rash, fatigue, lethargy
+2969,Dengue, skin_rash, chills, joint_pain, vomiting
+2977,Tuberculosis, chills, vomiting, fatigue, weight_loss
+2979,Pneumonia, chills, fatigue, cough, high_fever
+2985,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+2989,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+2990,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+2991,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+2992,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+2993,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+2994,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+2995,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+2997,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3001,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3004,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3005,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3008,Malaria, chills, vomiting, high_fever, sweating
+3009,Chicken pox,itching, skin_rash, fatigue, lethargy
+3010,Dengue, skin_rash, chills, joint_pain, vomiting
+3018,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3020,Pneumonia, chills, fatigue, cough, high_fever
+3026,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3030,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3031,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3032,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3033,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3034,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3035,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3036,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3038,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3042,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3045,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3046,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3049,Malaria, chills, vomiting, high_fever, sweating
+3050,Chicken pox,itching, skin_rash, fatigue, lethargy
+3051,Dengue, skin_rash, chills, joint_pain, vomiting
+3059,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3061,Pneumonia, chills, fatigue, cough, high_fever
+3067,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3071,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3072,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3073,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3074,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3075,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3076,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3077,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3079,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3083,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3086,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3087,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3090,Malaria, chills, vomiting, high_fever, sweating
+3091,Chicken pox,itching, skin_rash, fatigue, lethargy
+3092,Dengue, skin_rash, chills, joint_pain, vomiting
+3100,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3102,Pneumonia, chills, fatigue, cough, high_fever
+3108,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3112,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3113,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3114,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3115,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3116,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3117,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3118,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3120,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3124,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3127,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3128,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3131,Malaria, chills, vomiting, high_fever, sweating
+3132,Chicken pox,itching, skin_rash, fatigue, lethargy
+3133,Dengue, skin_rash, chills, joint_pain, vomiting
+3141,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3143,Pneumonia, chills, fatigue, cough, high_fever
+3149,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3153,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3154,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3155,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3156,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3157,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3158,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3159,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3161,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3165,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3168,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3169,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3172,Malaria, chills, vomiting, high_fever, sweating
+3173,Chicken pox,itching, skin_rash, fatigue, lethargy
+3174,Dengue, skin_rash, chills, joint_pain, vomiting
+3182,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3184,Pneumonia, chills, fatigue, cough, high_fever
+3190,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3194,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3195,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3196,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3197,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3198,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3199,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3200,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3202,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3206,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3209,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3210,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3213,Malaria, chills, vomiting, high_fever, sweating
+3214,Chicken pox,itching, skin_rash, fatigue, lethargy
+3215,Dengue, skin_rash, chills, joint_pain, vomiting
+3223,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3225,Pneumonia, chills, fatigue, cough, high_fever
+3231,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3235,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3236,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3237,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3238,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3239,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3240,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3241,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3243,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3247,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3250,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3251,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3254,Malaria, chills, vomiting, high_fever, sweating
+3255,Chicken pox,itching, skin_rash, fatigue, lethargy
+3256,Dengue, skin_rash, chills, joint_pain, vomiting
+3264,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3266,Pneumonia, chills, fatigue, cough, high_fever
+3272,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3276,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3277,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3278,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3279,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3280,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3281,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3282,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3284,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3288,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3291,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3292,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3295,Malaria, chills, vomiting, high_fever, sweating
+3296,Chicken pox,itching, skin_rash, fatigue, lethargy
+3297,Dengue, skin_rash, chills, joint_pain, vomiting
+3305,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3307,Pneumonia, chills, fatigue, cough, high_fever
+3313,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3317,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3318,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3319,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3320,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3321,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3322,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3323,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3325,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3329,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3332,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3333,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3336,Malaria, chills, vomiting, high_fever, sweating
+3337,Chicken pox,itching, skin_rash, fatigue, lethargy
+3338,Dengue, skin_rash, chills, joint_pain, vomiting
+3346,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3348,Pneumonia, chills, fatigue, cough, high_fever
+3354,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3358,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3359,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3360,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3361,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3362,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3363,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3364,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3366,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3370,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3373,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3374,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3377,Malaria, chills, vomiting, high_fever, sweating
+3378,Chicken pox,itching, skin_rash, fatigue, lethargy
+3379,Dengue, skin_rash, chills, joint_pain, vomiting
+3387,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3389,Pneumonia, chills, fatigue, cough, high_fever
+3395,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3399,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3400,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3401,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3402,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3403,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3404,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3405,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3407,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3411,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3414,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3415,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3418,Malaria, chills, vomiting, high_fever, sweating
+3419,Chicken pox,itching, skin_rash, fatigue, lethargy
+3420,Dengue, skin_rash, chills, joint_pain, vomiting
+3428,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3430,Pneumonia, chills, fatigue, cough, high_fever
+3436,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3440,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3441,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3442,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3443,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3444,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3445,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3446,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3448,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3452,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3455,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3456,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3459,Malaria, chills, vomiting, high_fever, sweating
+3460,Chicken pox,itching, skin_rash, fatigue, lethargy
+3461,Dengue, skin_rash, chills, joint_pain, vomiting
+3469,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3471,Pneumonia, chills, fatigue, cough, high_fever
+3477,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3481,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3482,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3483,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3484,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3485,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3486,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3487,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3489,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3493,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3496,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3497,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3500,Malaria, chills, vomiting, high_fever, sweating
+3501,Chicken pox,itching, skin_rash, fatigue, lethargy
+3502,Dengue, skin_rash, chills, joint_pain, vomiting
+3510,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3512,Pneumonia, chills, fatigue, cough, high_fever
+3518,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3522,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3523,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3524,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3525,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3526,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3527,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3528,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3530,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3534,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3537,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3538,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3541,Malaria, chills, vomiting, high_fever, sweating
+3542,Chicken pox,itching, skin_rash, fatigue, lethargy
+3543,Dengue, skin_rash, chills, joint_pain, vomiting
+3551,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3553,Pneumonia, chills, fatigue, cough, high_fever
+3559,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3563,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3564,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3565,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3566,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3567,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3568,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3569,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3571,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3575,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3578,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3579,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3582,Malaria, chills, vomiting, high_fever, sweating
+3583,Chicken pox,itching, skin_rash, fatigue, lethargy
+3584,Dengue, skin_rash, chills, joint_pain, vomiting
+3592,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3594,Pneumonia, chills, fatigue, cough, high_fever
+3600,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3604,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3605,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3606,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3607,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3608,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3609,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3610,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3612,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3616,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3619,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3620,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3623,Malaria, chills, vomiting, high_fever, sweating
+3624,Chicken pox,itching, skin_rash, fatigue, lethargy
+3625,Dengue, skin_rash, chills, joint_pain, vomiting
+3633,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3635,Pneumonia, chills, fatigue, cough, high_fever
+3641,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3645,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3646,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3647,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3648,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3649,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3650,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3651,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3653,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3657,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3660,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3661,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3664,Malaria, chills, vomiting, high_fever, sweating
+3665,Chicken pox,itching, skin_rash, fatigue, lethargy
+3666,Dengue, skin_rash, chills, joint_pain, vomiting
+3674,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3676,Pneumonia, chills, fatigue, cough, high_fever
+3682,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3686,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3687,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3688,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3689,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3690,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3691,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3692,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3694,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3698,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3701,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3702,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3705,Malaria, chills, vomiting, high_fever, sweating
+3706,Chicken pox,itching, skin_rash, fatigue, lethargy
+3707,Dengue, skin_rash, chills, joint_pain, vomiting
+3715,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3717,Pneumonia, chills, fatigue, cough, high_fever
+3723,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3727,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3728,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3729,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3730,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3731,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3732,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3733,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3735,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3739,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3742,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3743,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3746,Malaria, chills, vomiting, high_fever, sweating
+3747,Chicken pox,itching, skin_rash, fatigue, lethargy
+3748,Dengue, skin_rash, chills, joint_pain, vomiting
+3756,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3758,Pneumonia, chills, fatigue, cough, high_fever
+3764,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3768,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3769,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3770,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3771,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3772,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3773,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3774,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3776,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3780,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3783,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3784,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3787,Malaria, chills, vomiting, high_fever, sweating
+3788,Chicken pox,itching, skin_rash, fatigue, lethargy
+3789,Dengue, skin_rash, chills, joint_pain, vomiting
+3797,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3799,Pneumonia, chills, fatigue, cough, high_fever
+3805,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3809,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3810,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3811,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3812,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3813,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3814,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3815,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3817,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3821,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3824,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3825,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3828,Malaria, chills, vomiting, high_fever, sweating
+3829,Chicken pox,itching, skin_rash, fatigue, lethargy
+3830,Dengue, skin_rash, chills, joint_pain, vomiting
+3838,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3840,Pneumonia, chills, fatigue, cough, high_fever
+3846,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3850,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3851,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3852,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3853,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3854,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3855,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3856,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3858,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3862,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3865,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3866,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3869,Malaria, chills, vomiting, high_fever, sweating
+3870,Chicken pox,itching, skin_rash, fatigue, lethargy
+3871,Dengue, skin_rash, chills, joint_pain, vomiting
+3879,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3881,Pneumonia, chills, fatigue, cough, high_fever
+3887,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3891,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3892,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3893,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3894,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3895,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3896,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3897,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3899,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3903,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3906,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3907,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3910,Malaria, chills, vomiting, high_fever, sweating
+3911,Chicken pox,itching, skin_rash, fatigue, lethargy
+3912,Dengue, skin_rash, chills, joint_pain, vomiting
+3920,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3922,Pneumonia, chills, fatigue, cough, high_fever
+3928,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3932,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3933,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3934,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3935,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3936,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3937,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3938,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3940,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3944,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3947,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3948,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3951,Malaria, chills, vomiting, high_fever, sweating
+3952,Chicken pox,itching, skin_rash, fatigue, lethargy
+3953,Dengue, skin_rash, chills, joint_pain, vomiting
+3961,Tuberculosis, chills, vomiting, fatigue, weight_loss
+3963,Pneumonia, chills, fatigue, cough, high_fever
+3969,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+3973,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+3974,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+3975,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+3976,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+3977,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+3978,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+3979,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+3981,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+3985,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+3988,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3989,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+3992,Malaria, chills, vomiting, high_fever, sweating
+3993,Chicken pox,itching, skin_rash, fatigue, lethargy
+3994,Dengue, skin_rash, chills, joint_pain, vomiting
+4002,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4004,Pneumonia, chills, fatigue, cough, high_fever
+4010,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4014,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4015,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4016,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4017,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4018,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4019,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4020,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4022,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4026,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4029,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4030,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4033,Malaria, chills, vomiting, high_fever, sweating
+4034,Chicken pox,itching, skin_rash, fatigue, lethargy
+4035,Dengue, skin_rash, chills, joint_pain, vomiting
+4043,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4045,Pneumonia, chills, fatigue, cough, high_fever
+4051,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4055,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4056,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4057,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4058,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4059,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4060,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4061,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4063,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4067,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4070,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4071,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4074,Malaria, chills, vomiting, high_fever, sweating
+4075,Chicken pox,itching, skin_rash, fatigue, lethargy
+4076,Dengue, skin_rash, chills, joint_pain, vomiting
+4084,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4086,Pneumonia, chills, fatigue, cough, high_fever
+4092,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4096,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4097,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4098,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4099,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4100,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4101,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4102,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4104,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4108,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4111,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4112,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4115,Malaria, chills, vomiting, high_fever, sweating
+4116,Chicken pox,itching, skin_rash, fatigue, lethargy
+4117,Dengue, skin_rash, chills, joint_pain, vomiting
+4125,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4127,Pneumonia, chills, fatigue, cough, high_fever
+4133,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4137,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4138,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4139,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4140,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4141,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4142,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4143,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4145,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4149,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4152,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4153,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4156,Malaria, chills, vomiting, high_fever, sweating
+4157,Chicken pox,itching, skin_rash, fatigue, lethargy
+4158,Dengue, skin_rash, chills, joint_pain, vomiting
+4166,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4168,Pneumonia, chills, fatigue, cough, high_fever
+4174,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4178,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4179,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4180,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4181,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4182,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4183,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4184,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4186,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4190,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4193,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4194,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4197,Malaria, chills, vomiting, high_fever, sweating
+4198,Chicken pox,itching, skin_rash, fatigue, lethargy
+4199,Dengue, skin_rash, chills, joint_pain, vomiting
+4207,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4209,Pneumonia, chills, fatigue, cough, high_fever
+4215,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4219,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4220,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4221,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4222,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4223,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4224,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4225,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4227,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4231,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4234,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4235,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4238,Malaria, chills, vomiting, high_fever, sweating
+4239,Chicken pox,itching, skin_rash, fatigue, lethargy
+4240,Dengue, skin_rash, chills, joint_pain, vomiting
+4248,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4250,Pneumonia, chills, fatigue, cough, high_fever
+4256,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4260,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4261,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4262,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4263,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4264,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4265,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4266,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4268,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4272,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4275,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4276,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4279,Malaria, chills, vomiting, high_fever, sweating
+4280,Chicken pox,itching, skin_rash, fatigue, lethargy
+4281,Dengue, skin_rash, chills, joint_pain, vomiting
+4289,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4291,Pneumonia, chills, fatigue, cough, high_fever
+4297,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4301,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4302,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4303,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4304,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4305,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4306,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4307,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4309,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4313,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4316,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4317,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4320,Malaria, chills, vomiting, high_fever, sweating
+4321,Chicken pox,itching, skin_rash, fatigue, lethargy
+4322,Dengue, skin_rash, chills, joint_pain, vomiting
+4330,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4332,Pneumonia, chills, fatigue, cough, high_fever
+4338,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4342,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4343,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4344,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4345,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4346,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4347,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4348,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4350,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4354,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4357,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4358,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4361,Malaria, chills, vomiting, high_fever, sweating
+4362,Chicken pox,itching, skin_rash, fatigue, lethargy
+4363,Dengue, skin_rash, chills, joint_pain, vomiting
+4371,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4373,Pneumonia, chills, fatigue, cough, high_fever
+4379,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4383,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4384,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4385,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4386,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4387,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4388,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4389,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4391,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4395,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4398,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4399,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4402,Malaria, chills, vomiting, high_fever, sweating
+4403,Chicken pox,itching, skin_rash, fatigue, lethargy
+4404,Dengue, skin_rash, chills, joint_pain, vomiting
+4412,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4414,Pneumonia, chills, fatigue, cough, high_fever
+4420,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4424,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4425,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4426,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4427,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4428,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4429,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4430,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4432,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4436,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4439,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4440,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4443,Malaria, chills, vomiting, high_fever, sweating
+4444,Chicken pox,itching, skin_rash, fatigue, lethargy
+4445,Dengue, skin_rash, chills, joint_pain, vomiting
+4453,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4455,Pneumonia, chills, fatigue, cough, high_fever
+4461,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4465,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4466,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4467,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4468,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4469,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4470,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4471,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4473,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4477,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4480,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4481,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4484,Malaria, chills, vomiting, high_fever, sweating
+4485,Chicken pox,itching, skin_rash, fatigue, lethargy
+4486,Dengue, skin_rash, chills, joint_pain, vomiting
+4494,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4496,Pneumonia, chills, fatigue, cough, high_fever
+4502,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4506,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4507,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4508,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4509,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4510,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4511,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4512,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4514,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4518,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4521,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4522,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4525,Malaria, chills, vomiting, high_fever, sweating
+4526,Chicken pox,itching, skin_rash, fatigue, lethargy
+4527,Dengue, skin_rash, chills, joint_pain, vomiting
+4535,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4537,Pneumonia, chills, fatigue, cough, high_fever
+4543,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4547,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4548,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4549,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4550,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4551,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4552,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4553,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4555,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4559,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4562,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4563,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4566,Malaria, chills, vomiting, high_fever, sweating
+4567,Chicken pox,itching, skin_rash, fatigue, lethargy
+4568,Dengue, skin_rash, chills, joint_pain, vomiting
+4576,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4578,Pneumonia, chills, fatigue, cough, high_fever
+4584,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4588,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4589,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4590,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4591,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4592,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4593,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4594,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4596,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4600,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4603,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4604,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4607,Malaria, chills, vomiting, high_fever, sweating
+4608,Chicken pox,itching, skin_rash, fatigue, lethargy
+4609,Dengue, skin_rash, chills, joint_pain, vomiting
+4617,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4619,Pneumonia, chills, fatigue, cough, high_fever
+4625,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4629,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4630,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4631,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4632,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4633,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4634,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4635,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4637,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4641,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4644,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4645,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4648,Malaria, chills, vomiting, high_fever, sweating
+4649,Chicken pox,itching, skin_rash, fatigue, lethargy
+4650,Dengue, skin_rash, chills, joint_pain, vomiting
+4658,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4660,Pneumonia, chills, fatigue, cough, high_fever
+4666,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4670,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4671,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4672,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4673,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4674,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4675,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4676,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4678,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4682,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4685,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4686,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4689,Malaria, chills, vomiting, high_fever, sweating
+4690,Chicken pox,itching, skin_rash, fatigue, lethargy
+4691,Dengue, skin_rash, chills, joint_pain, vomiting
+4699,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4701,Pneumonia, chills, fatigue, cough, high_fever
+4707,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4711,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4712,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4713,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4714,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4715,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4716,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4717,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4719,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4723,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4726,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4727,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4730,Malaria, chills, vomiting, high_fever, sweating
+4731,Chicken pox,itching, skin_rash, fatigue, lethargy
+4732,Dengue, skin_rash, chills, joint_pain, vomiting
+4740,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4742,Pneumonia, chills, fatigue, cough, high_fever
+4748,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4752,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4753,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4754,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4755,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4756,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4757,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4758,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4760,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4764,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4767,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4768,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4771,Malaria, chills, vomiting, high_fever, sweating
+4772,Chicken pox,itching, skin_rash, fatigue, lethargy
+4773,Dengue, skin_rash, chills, joint_pain, vomiting
+4781,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4783,Pneumonia, chills, fatigue, cough, high_fever
+4789,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4793,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4794,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4795,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4796,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4797,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4798,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4799,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4801,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4805,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4808,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4809,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4812,Malaria, chills, vomiting, high_fever, sweating
+4813,Chicken pox,itching, skin_rash, fatigue, lethargy
+4814,Dengue, skin_rash, chills, joint_pain, vomiting
+4822,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4824,Pneumonia, chills, fatigue, cough, high_fever
+4830,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4834,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4835,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4836,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4837,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4838,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4839,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4840,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4842,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4846,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4849,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4850,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4853,Malaria, chills, vomiting, high_fever, sweating
+4854,Chicken pox,itching, skin_rash, fatigue, lethargy
+4855,Dengue, skin_rash, chills, joint_pain, vomiting
+4863,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4865,Pneumonia, chills, fatigue, cough, high_fever
+4871,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4875,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4876,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4877,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4878,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose
+4879,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+4880,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+4881,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
+4883,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+4887,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
+4890,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4891,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
+4894,Malaria, chills, vomiting, high_fever, sweating
+4895,Chicken pox,itching, skin_rash, fatigue, lethargy
+4896,Dengue, skin_rash, chills, joint_pain, vomiting
+4904,Tuberculosis, chills, vomiting, fatigue, weight_loss
+4906,Pneumonia, chills, fatigue, cough, high_fever
+4912,Hypoglycemia, vomiting, fatigue, anxiety, sweating
+4916,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+4917,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+4918,Psoriasis, skin_rash, joint_pain, skin_peeling, silver_like_dusting
+4919,Impetigo, skin_rash, high_fever, blister, red_sore_around_nose

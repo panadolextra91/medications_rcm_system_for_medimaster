@@ -1,0 +1,18 @@
+Unnamed: 0,Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4
+0,Drug Reaction,stop irritation,consult nearest hospital,stop taking drug,follow up
+1,Malaria,Consult nearest hospital,avoid oily food,avoid non veg food,keep mosquitos out
+2,Allergy,apply calamine,cover area with bandage,,use ice to compress itching
+4,Psoriasis,wash hands with warm soapy water,stop bleeding using pressure,consult doctor,salt baths
+5,GERD,avoid fatty spicy food,avoid lying down after eating,maintain healthy weight,exercise
+10,Hypoglycemia,lie down on side,check in pulse,drink sugary drinks,consult doctor
+11,Acne,bath twice,avoid fatty spicy food,drink plenty of water,avoid too many products
+13,Impetigo,soak affected area in warm water,use antibiotics,remove scabs with wet compressed cloth,consult doctor
+18,Chicken pox,use neem in bathing ,consume neem leaves,take vaccine,avoid public places
+19,Cervical spondylosis,use heating pad or cold pack,exercise,take otc pain reliver,consult doctor
+21,Urinary tract infection,drink plenty of water,increase vitamin c intake,drink cranberry juice,take probiotics
+27,Fungal infection,bath twice,use detol or neem in bathing water,keep infected area dry,use clean cloths
+29,Migraine,meditation,reduce stress,use poloroid glasses in sun,consult doctor
+34,Dengue,drink papaya leaf juice,avoid fatty spicy food,keep mosquitos away,keep hydrated
+37,Pneumonia,consult doctor,medication,rest,follow up
+39,Gastroenteritis,stop eating solid food for while,try taking small sips of water,rest,ease back into eating
+40,Tuberculosis,cover mouth,consult doctor,medication,rest

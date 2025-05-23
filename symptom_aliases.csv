@@ -1,0 +1,132 @@
+symptom,alias1,alias2,alias3,alias4,alias5,alias6,alias7,alias8,alias9,alias10
+itching,pruritus,skin itch,cutaneous irritation,skin irritation,itchy skin,pruritic sensation,localized itching,generalized itching,itchy sensation,itch
+skin_rash,dermatitis,skin eruption,cutaneous rash,skin irritation,erythema,skin lesion,cutaneous eruption,skin inflammation,skin redness,skin rash
+nodal_skin_eruptions,skin nodules,cutaneous nodules,skin bumps,skin lumps,nodular eruptions,cutaneous lumps,skin protuberances,nodular lesions,skin swellings,nodal skin eruptions
+continuous_sneezing,persistent sneezing,recurrent sneezing,chronic sneezing,repeated sneezing,incessant sneezing,constant sneezing,prolonged sneezing,uncontrolled sneezing,paroxysmal sneezing,continuous sneezing
+shivering,trembling,shaking,chills,tremors,quivering,shuddering,convulsive movements,involuntary tremors,body shaking,shiver
+chills,rigors,shivering,goosebumps,shaking,body chills,cold sensation,shuddering,trembling,goose flesh,chill
+joint_pain,arthralgia,articular pain,joint discomfort,joint ache,joint soreness,joint tenderness,joint inflammation,joint stiffness,joint swelling,joint pain
+stomach_pain,gastralgia,abdominal pain,belly ache,stomach ache,epigastric pain,gastric pain,stomach discomfort,abdominal discomfort,stomach cramps,stomach pain
+acidity,heartburn,acid reflux,gastric acid,stomach acid,acid indigestion,pyrosis,acid erosion,acid burning,acid regurgitation,acidity
+ulcers_on_tongue,oral ulcers,tongue ulcers,mouth ulcers,lingual ulcers,aphthous ulcers,tongue sores,oral lesions,tongue lesions,oral sores,ulcers on tongue
+muscle_wasting,muscle atrophy,muscle loss,muscle degeneration,muscle deterioration,muscle decrease,muscle shrinkage,muscle reduction,muscle thinning,muscle decline,muscle wasting
+vomiting,emesis,nausea,throwing up,regurgitation,retching,heaving,upchucking,puking,barfing,vomit
+burning_micturition,dysuria,painful urination,urinary burning,urination pain,bladder burning,urethral pain,urinary discomfort,bladder pain,urinary pain,burning micturition
+spotting_urination,hematuria,bloody urine,urinary bleeding,blood in urine,urinary blood,red urine,urinary spotting,blood spotting,urinary hemorrhage,spotting urination
+fatigue,exhaustion,tiredness,lethargy,weariness,weakness,energy loss,physical tiredness,mental tiredness,general fatigue,fatigue
+weight_gain,obesity,weight increase,body weight gain,weight addition,weight accumulation,weight buildup,weight rise,weight increment,weight addition,weight gain
+anxiety,nervousness,worry,fear,apprehension,unease,distress,anxiousness,stress,panic,anxiety
+cold_hands_and_feets,peripheral coldness,extremity coldness,cold extremities,chilly limbs,cold limbs,peripheral cooling,extremity cooling,cold digits,chilly hands feet,cold hands and feets
+mood_swings,emotional lability,emotional instability,mood changes,emotional changes,mood fluctuations,emotional fluctuations,mood variations,emotional variations,mood instability,mood swings
+weight_loss,emaciation,weight decrease,body weight loss,weight reduction,weight decline,weight drop,weight diminution,weight shrinkage,weight decrement,weight loss
+restlessness,agitation,restive state,uneasiness,disquiet,restive behavior,agitated state,restive condition,restive movement,restive activity,restlessness
+lethargy,drowsiness,sleepiness,fatigue,sluggishness,tiredness,listlessness,weariness,exhaustion,slowness,lethargy
+patches_in_throat,throat patches,throat lesions,throat sores,throat ulcers,throat eruptions,throat plaques,throat marks,throat spots,throat dots,patches in throat
+irregular_sugar_level,glycemic instability,blood sugar fluctuation,glucose irregularity,sugar level variation,blood glucose instability,glucose fluctuation,sugar fluctuation,blood sugar variation,glucose variation,irregular sugar level
+cough,tussis,hacking,chest cough,dry cough,productive cough,chronic cough,acute cough,persistent cough,recurrent cough,cough
+high_fever,pyrexia,elevated temperature,hyperthermia,increased temperature,severe fever,acute fever,persistent fever,prolonged fever,continuous fever,high fever
+sunken_eyes,enophthalmos,deep set eyes,hollow eyes,recessed eyes,sunken eyeballs,depressed eyes,retracted eyes,deep eyeballs,hollow eyeballs,sunken eyes
+breathlessness,dyspnea,shortness of breath,breathing difficulty,respiratory distress,labored breathing,breathing trouble,respiratory difficulty,breathing problem,air hunger,breathlessness
+sweating,perspiration,diaphoresis,excessive sweating,profuse sweating,hyperhidrosis,increased sweating,abnormal sweating,night sweats,generalized sweating,sweating
+dehydration,fluid loss,water loss,fluid deficit,water deficit,fluid depletion,water depletion,fluid insufficiency,water insufficiency,fluid shortage,dehydration
+indigestion,dyspepsia,stomach upset,digestive problem,stomach discomfort,digestive discomfort,stomach distress,digestive distress,stomach trouble,digestive trouble,indigestion
+headache,cephalgia,head pain,head ache,cranial pain,head discomfort,head pressure,head tension,head soreness,head tenderness,headache
+yellowish_skin,jaundice,icterus,yellow skin,yellow discoloration,skin yellowing,hepatic jaundice,cholestatic jaundice,hepatocellular jaundice,obstructive jaundice,yellowish skin
+dark_urine,concentrated urine,deep colored urine,strong urine,amber urine,brown urine,deep yellow urine,dark colored urine,strong colored urine,concentrated colored urine,dark urine
+nausea,queasiness,stomach queasiness,feeling sick,upset stomach,sick feeling,stomach nausea,gastric nausea,abdominal nausea,stomach sickness,nausea
+loss_of_appetite,anorexia,decreased appetite,reduced appetite,diminished appetite,appetite loss,appetite decrease,appetite reduction,appetite diminution,appetite decline,loss of appetite
+pain_behind_the_eyes,retrobulbar pain,ocular pain,eye pain,orbital pain,eye discomfort,ocular discomfort,eye ache,ocular ache,eye soreness,pain behind the eyes
+back_pain,dorsalgia,spinal pain,back ache,back discomfort,back soreness,back tenderness,back stiffness,back tension,back strain,back pain
+constipation,obstipation,irregular bowels,hard stools,difficult bowel movements,infrequent bowels,straining bowels,slow bowels,blocked bowels,impacted bowels,constipation
+abdominal_pain,bellyache,stomach ache,abdominal discomfort,abdominal cramps,abdominal soreness,abdominal tenderness,abdominal distress,abdominal ache,abdominal soreness,abdominal pain
+diarrhoea,loose stools,watery stools,loose bowels,watery bowels,frequent bowels,acute diarrhea,chronic diarrhea,persistent diarrhea,recurrent diarrhea,diarrhoea
+mild_fever,low grade fever,subfebrile temperature,slight fever,moderate fever,low fever,minimal fever,minor fever,insignificant fever,trivial fever,mild fever
+yellow_urine,urobilinuria,yellow colored urine,amber urine,deep yellow urine,concentrated yellow urine,strong yellow urine,dark yellow urine,intense yellow urine,bright yellow urine,yellow urine
+yellowing_of_eyes,scleral icterus,conjunctival icterus,ocular jaundice,eye yellowing,eye discoloration,ocular yellowing,conjunctival yellowing,scleral yellowing,ocular discoloration,yellowing of eyes
+acute_liver_failure,fulminant hepatitis,severe liver failure,rapid liver failure,sudden liver failure,acute hepatic failure,fulminant liver failure,severe hepatic failure,rapid hepatic failure,sudden hepatic failure,acute liver failure
+fluid_overload,hypervolemia,fluid retention,water retention,fluid accumulation,water accumulation,fluid excess,water excess,fluid overload,water overload,fluid overload
+swelling_of_stomach,abdominal distention,stomach distention,abdominal bloating,stomach bloating,abdominal swelling,stomach swelling,abdominal enlargement,stomach enlargement,abdominal expansion,swelling of stomach
+swelled_lymph_nodes,lymphadenopathy,enlarged lymph nodes,swollen glands,enlarged glands,lymph node enlargement,gland enlargement,lymph node swelling,gland swelling,lymph node inflammation,swelled lymph nodes
+malaise,general discomfort,general illness,general weakness,general fatigue,general tiredness,general uneasiness,general distress,general disorder,general sickness,malaise
+blurred_and_distorted_vision,visual disturbance,blurred vision,distorted vision,visual blurring,vision distortion,visual impairment,vision impairment,visual disturbance,vision disturbance,blurred and distorted vision
+phlegm,sputum,mucus,respiratory secretions,bronchial secretions,lung secretions,respiratory mucus,bronchial mucus,lung mucus,respiratory phlegm,phlegm
+throat_irritation,sore throat,throat soreness,throat discomfort,throat pain,throat scratchiness,throat rawness,throat burning,throat tickling,throat itching,throat irritation
+redness_of_eyes,conjunctival injection,eye redness,ocular redness,conjunctival redness,eye inflammation,ocular inflammation,conjunctival inflammation,eye irritation,ocular irritation,redness of eyes
+sinus_pressure,sinus congestion,sinus oppression,sinus compression,sinus tension,sinus fullness,sinus heaviness,sinus weight,sinus burden,sinus load,sinus pressure
+runny_nose,rhinorrhea,nasal discharge,nasal secretion,nasal dripping,nasal flow,nasal runoff,nasal leakage,nasal overflow,nasal drainage,runny nose
+congestion,nasal obstruction,nasal congestion,nasal blockage,nasal stuffiness,nasal obstruction,nasal clogging,nasal plugging,nasal occlusion,nasal impedance,congestion
+chest_pain,thoracic pain,chest discomfort,chest soreness,chest tenderness,chest ache,chest distress,chest tension,chest pressure,chest tightness,chest pain
+weakness_in_limbs,limb weakness,extremity weakness,limb fatigue,extremity fatigue,limb tiredness,extremity tiredness,limb debility,extremity debility,limb asthenia,weakness in limbs
+fast_heart_rate,tachycardia,rapid heartbeat,accelerated heartbeat,increased heart rate,elevated heart rate,rapid pulse,accelerated pulse,increased pulse,elevated pulse,fast heart rate
+pain_during_bowel_movements,dyschezia,defecation pain,bowel movement pain,defecation discomfort,bowel movement discomfort,defecation distress,bowel movement distress,defecation ache,bowel movement ache,pain during bowel movements
+pain_in_anal_region,anal pain,rectal pain,anal discomfort,rectal discomfort,anal soreness,rectal soreness,anal tenderness,rectal tenderness,anal distress,pain in anal region
+bloody_stool,hematochezia,blood in stool,bloody bowel movement,blood in bowel movement,bloody defecation,blood in defecation,bloody diarrhea,blood in diarrhea,bloody rectal bleeding,bloody stool
+irritation_in_anus,anal pruritus,anal irritation,rectal irritation,anal discomfort,rectal discomfort,anal itching,rectal itching,anal burning,rectal burning,irritation in anus
+neck_pain,cervicalgia,neck discomfort,neck soreness,neck tenderness,neck ache,neck distress,neck tension,neck pressure,neck stiffness,neck pain
+dizziness,vertigo,lightheadedness,unsteadiness,balance problem,equilibrium disturbance,spinning sensation,rotational vertigo,positional vertigo,vestibular disturbance,dizziness
+cramps,muscle spasms,muscle cramps,muscle contractions,muscle tightness,muscle pain,muscle ache,muscle discomfort,muscle soreness,muscle tenderness,cramp
+bruising,ecchymosis,contusion,hematoma,skin discoloration,skin bleeding,subcutaneous bleeding,skin hemorrhage,subcutaneous hemorrhage,skin bruise,bruise
+obesity,adiposity,overweight,excess weight,body fat,excess body fat,adipose tissue,body mass,excess body mass,body weight,obesity
+swollen_legs,leg edema,leg swelling,lower limb edema,lower limb swelling,leg inflammation,lower limb inflammation,leg distention,lower limb distention,leg enlargement,swollen legs
+swollen_blood_vessels,varicose veins,dilated veins,enlarged veins,distended veins,vein swelling,vein enlargement,vein distention,vein dilation,vein expansion,swollen blood vessels
+puffy_face_and_eyes,facial edema,periorbital edema,facial swelling,eye swelling,face swelling,periorbital swelling,facial distention,eye distention,face distention,puffy face and eyes
+enlarged_thyroid,goiter,thyroid enlargement,thyroid swelling,thyroid distention,thyroid expansion,thyroid growth,thyroid mass,thyroid nodule,thyroid tumor,enlarged thyroid
+brittle_nails,onychorrhexis,nail fragility,nail weakness,nail breakage,nail splitting,nail cracking,nail peeling,nail thinning,nail deterioration,brittle nails
+swollen_extremeties,peripheral edema,limb edema,extremity swelling,limb swelling,peripheral swelling,extremity distention,limb distention,peripheral distention,extremity enlargement,swollen extremeties
+excessive_hunger,polyphagia,increased appetite,excessive appetite,voracious appetite,ravenous appetite,insatiable appetite,excessive eating,increased eating,voracious eating,excessive hunger
+extra_marital_contacts,unprotected sex,risky sexual behavior,unsafe sexual contact,high risk sexual activity,unprotected sexual contact,risky sexual contact,unsafe sex,high risk sex,unprotected sexual activity,extra marital contacts
+drying_and_tingling_lips,lip paresthesia,lip numbness,lip tingling,lip dryness,lip sensation,lip discomfort,lip irritation,lip burning,lip stinging,drying and tingling lips
+slurred_speech,dysarthria,unclear speech,indistinct speech,impaired speech,slurred talking,unclear talking,indistinct talking,impaired talking,slurred articulation,slurred speech
+knee_pain,gonalgia,knee discomfort,knee soreness,knee tenderness,knee ache,knee distress,knee tension,knee pressure,knee stiffness,knee pain
+hip_joint_pain,coxalgia,hip pain,hip discomfort,hip soreness,hip tenderness,hip ache,hip distress,hip tension,hip pressure,hip joint pain
+muscle_weakness,myasthenia,muscle debility,muscle fatigue,muscle tiredness,muscle exhaustion,muscle asthenia,muscle impairment,muscle deficiency,muscle insufficiency,muscle weakness
+stiff_neck,nuchal rigidity,neck stiffness,neck rigidity,neck tension,neck tightness,neck immobility,neck restriction,neck constraint,neck limitation,stiff neck
+swelling_joints,arthritic swelling,joint edema,joint swelling,joint distention,joint enlargement,joint inflammation,joint expansion,joint growth,joint mass,swelling joints
+movement_stiffness,bradykinesia,slowed movement,reduced movement,decreased movement,impaired movement,restricted movement,limited movement,sluggish movement,slow movement,movement stiffness
+spinning_movements,rotatory vertigo,rotational vertigo,spinning sensation,rotational sensation,spinning dizziness,rotational dizziness,spinning vertigo,rotational imbalance,spinning imbalance,spinning movements
+loss_of_balance,ataxia,balance loss,equilibrium loss,balance disturbance,equilibrium disturbance,balance impairment,equilibrium impairment,balance dysfunction,equilibrium dysfunction,loss of balance
+unsteadiness,postural instability,balance instability,equilibrium instability,balance uncertainty,equilibrium uncertainty,balance wavering,equilibrium wavering,balance shakiness,equilibrium shakiness,unsteadiness
+weakness_of_one_body_side,hemiparesis,one sided weakness,unilateral weakness,one sided debility,unilateral debility,one sided fatigue,unilateral fatigue,one sided asthenia,unilateral asthenia,weakness of one body side
+loss_of_smell,anosmia,smell loss,olfactory loss,smell impairment,olfactory impairment,smell deficit,olfactory deficit,smell dysfunction,olfactory dysfunction,loss of smell
+bladder_discomfort,cystalgia,bladder pain,bladder soreness,bladder tenderness,bladder ache,bladder distress,bladder tension,bladder pressure,bladder stiffness,bladder discomfort
+foul_smell_ofurine,malodorous urine,strong urine odor,offensive urine odor,unpleasant urine odor,abnormal urine odor,strong urine smell,offensive urine smell,unpleasant urine smell,abnormal urine smell,foul smell ofurine
+continuous_feel_of_urine,urinary urgency,persistent urination feeling,constant urination feeling,continuous urination sensation,persistent urination sensation,constant urination sensation,continuous urination urge,persistent urination urge,constant urination urge,continuous feel of urine
+passage_of_gases,flatulence,gas passing,gas release,gas expulsion,gas emission,gas discharge,gas venting,gas evacuation,gas elimination,passage of gases
+internal_itching,visceral pruritus,internal irritation,internal discomfort,internal sensation,internal tickling,internal scratching,internal burning,internal stinging,internal prickling,internal itching
+toxic_look_(typhos),typhoid facies,toxic appearance,septic appearance,toxic expression,septic expression,toxic countenance,septic countenance,toxic visage,septic visage,toxic look (typhos)
+depression,major depressive disorder,clinical depression,depressive disorder,mood disorder,emotional depression,mental depression,psychological depression,affective disorder,mood disturbance,depression
+irritability,agitation,irritable mood,irritable state,irritable condition,irritable disposition,irritable temperament,irritable nature,irritable character,irritable temper,irritability
+muscle_pain,myalgia,muscle ache,muscle soreness,muscle tenderness,muscle discomfort,muscle distress,muscle tension,muscle pressure,muscle stiffness,muscle pain
+altered_sensorium,mental status change,altered consciousness,altered mental state,altered mental status,altered cognition,altered awareness,altered perception,altered orientation,altered mentation,altered sensorium
+red_spots_over_body,petechiae,skin hemorrhages,cutaneous hemorrhages,skin bleeding,cutaneous bleeding,skin red spots,cutaneous red spots,skin red dots,cutaneous red dots,red spots over body
+belly_pain,abdominal discomfort,abdominal soreness,abdominal tenderness,abdominal ache,abdominal distress,abdominal tension,abdominal pressure,abdominal stiffness,abdominal cramps,belly pain
+abnormal_menstruation,dysmenorrhea,irregular periods,menstrual disorder,menstrual irregularity,menstrual disturbance,menstrual dysfunction,menstrual abnormality,menstrual problem,menstrual trouble,abnormal menstruation
+dischromic_patches,skin depigmentation,skin discoloration,skin color changes,skin pigmentation changes,skin color variation,skin pigmentation variation,skin color irregularity,skin pigmentation irregularity,skin color abnormality,dischromic patches
+watering_from_eyes,epiphora,excessive tearing,tear overflow,tear secretion,tear production,tear discharge,tear flow,tear overflow,tear excess,watering from eyes
+increased_appetite,hyperphagia,excessive hunger,voracious appetite,ravenous appetite,insatiable appetite,excessive eating,increased eating,voracious eating,ravenous eating,increased appetite
+polyuria,excessive urination,increased urination,frequent urination,excessive urine output,increased urine output,frequent urine output,excessive urine production,increased urine production,frequent urine production,polyuria
+family_history,genetic predisposition,hereditary factors,genetic factors,family background,genetic background,family risk,genetic risk,family tendency,genetic tendency,family history
+mucoid_sputum,clear sputum,mucous sputum,phlegm sputum,respiratory mucus,bronchial mucus,lung mucus,respiratory secretions,bronchial secretions,lung secretions,mucoid sputum
+rusty_sputum,blood tinged sputum,blood streaked sputum,bloody sputum,hemoptysis sputum,blood mixed sputum,blood containing sputum,blood present sputum,blood visible sputum,blood noticeable sputum,rusty sputum
+lack_of_concentration,attention deficit,concentration difficulty,focus problem,attention problem,concentration problem,focus difficulty,attention difficulty,concentration impairment,focus impairment,lack of concentration
+visual_disturbances,vision changes,visual changes,vision problems,visual problems,vision impairment,visual impairment,vision disturbance,visual alteration,vision alteration,visual disturbances
+receiving_blood_transfusion,transfusion history,blood transfusion history,transfusion record,blood transfusion record,transfusion background,blood transfusion background,transfusion experience,blood transfusion experience,transfusion past,receiving blood transfusion
+receiving_unsterile_injections,unsafe injection,unsterile injection history,unsafe injection history,unsterile injection record,unsafe injection record,unsterile injection background,unsafe injection background,unsterile injection experience,unsafe injection experience,receiving unsterile injections
+coma,unconsciousness,deep unconsciousness,profound unconsciousness,complete unconsciousness,total unconsciousness,severe unconsciousness,extreme unconsciousness,absolute unconsciousness,utter unconsciousness,coma
+stomach_bleeding,gastrointestinal hemorrhage,gastric bleeding,abdominal bleeding,digestive bleeding,gastric hemorrhage,abdominal hemorrhage,digestive hemorrhage,gastrointestinal bleeding,stomach hemorrhage,stomach bleeding
+distention_of_abdomen,abdominal bloating,abdominal distention,abdominal swelling,abdominal enlargement,abdominal expansion,abdominal fullness,abdominal tightness,abdominal pressure,abdominal tension,distention of abdomen
+history_of_alcohol_consumption,alcohol abuse,alcohol history,alcohol use history,alcohol consumption history,alcohol abuse history,alcohol use record,alcohol consumption record,alcohol abuse record,alcohol use background,history of alcohol consumption
+blood_in_sputum,hemoptysis,bloody sputum,blood tinged sputum,blood streaked sputum,blood mixed sputum,blood containing sputum,blood present sputum,blood visible sputum,blood noticeable sputum,blood in sputum
+prominent_veins_on_calf,varicose veins calf,calf vein prominence,calf vein visibility,calf vein distention,calf vein enlargement,calf vein swelling,calf vein dilation,calf vein expansion,calf vein protrusion,prominent veins on calf
+palpitations,heart fluttering,heart racing,heart thumping,heart pounding,heart skipping,heart irregularity,heart abnormality,heart disturbance,heart irregular beat,palpitation
+painful_walking,ambulatory pain,walking pain,walking discomfort,walking soreness,walking tenderness,walking ache,walking distress,walking tension,walking pressure,painful walking
+pus_filled_pimples,pustules,purulent pimples,infected pimples,pus containing pimples,pus present pimples,pus visible pimples,pus noticeable pimples,pus obvious pimples,pus evident pimples,pus filled pimples
+blackheads,comedones,open comedones,closed comedones,follicular plugs,sebaceous plugs,keratin plugs,sebum plugs,oil plugs,skin plugs,blackhead
+scurring,cicatrization,scar formation,scarring process,scar development,scar creation,scar production,scar generation,scar establishment,scar formation process,scurring
+skin_peeling,desquamation,skin shedding,skin flaking,skin scaling,skin exfoliation,skin sloughing,skin detachment,skin separation,skin removal,skin peeling
+silver_like_dusting,scaling,skin scales,skin flakes,skin particles,skin dust,skin powder,skin powdering,skin dusting,skin particulate,silver like dusting
+small_dents_in_nails,nail pitting,nail indentations,nail depressions,nail craters,nail hollows,nail convexities,nail concavities,nail dips,nail dents,small dents in nails
+inflammatory_nails,paronychia,nail inflammation,nail swelling,nail redness,nail tenderness,nail pain,nail discomfort,nail soreness,nail distress,inflammatory nails
+blister,vesicle,skin blister,cutaneous blister,fluid filled blister,clear blister,transparent blister,serous blister,water blister,fluid blister,blister
+red_sore_around_nose,perinasal erythema,nasal soreness,nasal redness,nasal inflammation,nasal irritation,nasal discomfort,nasal pain,nasal tenderness,nasal distress,red sore around nose
+yellow_crust_ooze,impetigo,crusty lesions,oozing lesions,crusty sores,oozing sores,crusty eruptions,oozing eruptions,crusty patches,oozing patches,yellow crust ooze 

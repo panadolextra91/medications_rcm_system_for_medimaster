@@ -1,0 +1,18 @@
+Disease,Medication
+Fungal infection,['Antifungal']
+Allergy,['Antihistamines']
+GERD,"['Antacids', 'Antibiotics']"
+Drug Reaction,"['Antihistamines', 'Antibiotics', 'Antifungal']"
+Gastroenteritis,"['Antibiotics', 'Digestive Health']"
+Migraine,['Analgesics']
+Cervical spondylosis,['Analgesics']
+Malaria,"['Antimalarial', 'Antipyretics']"
+Chicken pox,"['Antiviral', 'Analgesics']"
+Dengue,"['Antibiotics', 'Antipyretics', 'Analgesics']"
+Tuberculosis,"['Antipyretics', 'Cough & Cold', 'Antihistamines', 'Analgesics']"
+Pneumonia,"['Analgesics', 'Cough & Cold']"
+Hypoglycemia,['Analgesics']
+Acne,"['Antibiotics', 'Analgesics', 'Antihistamines', 'Topical treatments']"
+Urinary tract infection,"['Antibiotics', 'Urinary analgesics', 'Antispasmodics', 'Digestive Health']"
+Psoriasis,['Topical treatments']
+Impetigo,['Antiseptics']

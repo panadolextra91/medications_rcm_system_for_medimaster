@@ -1,0 +1,171 @@
+Unnamed: 0.1,Unnamed: 0,disease,workout
+0,0,Fungal infection,Avoid sugary foods
+1,1,Fungal infection,Consume probiotics
+2,2,Fungal infection,Increase intake of garlic
+3,3,Fungal infection,Include yogurt in diet
+4,4,Fungal infection,Limit processed foods
+5,5,Fungal infection,Stay hydrated
+6,6,Fungal infection,Consume green tea
+7,7,Fungal infection,Eat foods rich in zinc
+8,8,Fungal infection,Include turmeric in diet
+9,9,Fungal infection,Eat fruits and vegetables
+10,10,Allergy,Avoid allergenic foods
+11,11,Allergy,Consume anti-inflammatory foods
+12,12,Allergy,Include omega-3 fatty acids
+13,13,Allergy,Stay hydrated
+14,14,Allergy,Eat foods rich in vitamin C
+15,15,Allergy,Include quercetin-rich foods
+16,16,Allergy,Consume local honey
+17,17,Allergy,Limit processed foods
+18,18,Allergy,Include ginger in diet
+19,19,Allergy,Avoid artificial additives
+20,20,GERD,Consume smaller meals
+21,21,GERD,"Avoid trigger foods (spicy, fatty)"
+22,22,GERD,Eat high-fiber foods
+23,23,GERD,Limit caffeine and alcohol
+24,24,GERD,Chew food thoroughly
+25,25,GERD,Avoid late-night eating
+26,26,GERD,Consume non-citrus fruits
+27,27,GERD,Include lean proteins
+28,28,GERD,Stay hydrated
+29,29,GERD,Avoid carbonated beverages
+40,40,Drug Reaction,Discontinue offending medication
+41,41,Drug Reaction,Stay hydrated
+42,42,Drug Reaction,Include anti-inflammatory foods
+43,43,Drug Reaction,Consume antioxidants
+44,44,Drug Reaction,Avoid trigger foods
+45,45,Drug Reaction,Include omega-3 fatty acids
+46,46,Drug Reaction,Limit caffeine and alcohol
+47,47,Drug Reaction,Stay hydrated
+48,48,Drug Reaction,Eat a balanced diet
+49,49,Drug Reaction,Consult a healthcare professional
+80,80,Gastroenteritis,Stay hydrated
+81,81,Gastroenteritis,Consume clear fluids
+82,82,Gastroenteritis,"Follow the BRAT diet (bananas, rice, applesauce, toast)"
+83,83,Gastroenteritis,Include bland foods
+84,84,Gastroenteritis,Avoid fatty and greasy foods
+85,85,Gastroenteritis,Limit caffeine and alcohol
+86,86,Gastroenteritis,Avoid spicy foods
+87,87,Gastroenteritis,Consult a healthcare professional
+88,88,Gastroenteritis,Gradually reintroduce solid foods
+89,89,Gastroenteritis,Avoid dairy products
+110,110,Migraine,Identify and avoid trigger foods
+111,111,Migraine,Stay hydrated
+112,112,Migraine,Include magnesium-rich foods
+113,113,Migraine,Consume omega-3 fatty acids
+114,114,Migraine,Limit caffeine and alcohol
+115,115,Migraine,Consume riboflavin-rich foods
+116,116,Migraine,Limit processed foods
+117,117,Migraine,Maintain regular meal times
+118,118,Migraine,Consult a healthcare professional
+119,119,Migraine,Manage stress
+120,120,Cervical spondylosis,Include anti-inflammatory foods
+121,121,Cervical spondylosis,Consume omega-3 fatty acids
+122,122,Cervical spondylosis,Include vitamin D-rich foods
+123,123,Cervical spondylosis,Stay hydrated
+124,124,Cervical spondylosis,Consume antioxidant-rich foods
+125,125,Cervical spondylosis,Limit processed foods
+126,126,Cervical spondylosis,Include lean proteins
+127,127,Cervical spondylosis,Practice good posture
+128,128,Cervical spondylosis,Consult a healthcare professional
+129,129,Cervical spondylosis,Engage in regular exercise
+150,150,Malaria,Stay hydrated
+151,151,Malaria,Consume nutrient-rich foods
+152,152,Malaria,Include protein-rich foods
+153,153,Malaria,Consume foods rich in antioxidants
+154,154,Malaria,Limit fatty and greasy foods
+155,155,Malaria,Avoid alcohol and caffeine
+156,156,Malaria,Include vitamin C-rich foods
+157,157,Malaria,Consult a healthcare professional
+158,158,Malaria,Rest and conserve energy
+159,159,Malaria,Gradually resume normal diet
+160,160,Chicken pox,Stay hydrated
+161,161,Chicken pox,Include easily digestible foods
+162,162,Chicken pox,Include vitamin C-rich foods
+163,163,Chicken pox,Consume protein-rich foods
+164,164,Chicken pox,Include zinc-rich foods
+165,165,Chicken pox,Avoid spicy and acidic foods
+166,166,Chicken pox,Consult a healthcare professional
+167,167,Chicken pox,Practice good hygiene
+168,168,Chicken pox,Rest and conserve energy
+169,169,Chicken pox,Gradually resume normal diet
+170,170,Dengue,Stay hydrated
+171,171,Dengue,Include nutrient-rich foods
+172,172,Dengue,Consume foods rich in vitamin C and antioxidants
+173,173,Dengue,Limit fatty and greasy foods
+174,174,Dengue,Avoid caffeine and alcohol
+175,175,Dengue,Include soft and easily digestible foods
+176,176,Dengue,Consult a healthcare professional
+177,177,Dengue,Rest and conserve energy
+178,178,Dengue,Gradually resume normal diet
+179,179,Dengue,Follow medical recommendations
+250,250,Tuberculosis,Consume a high-protein diet
+251,251,Tuberculosis,Include nutrient-rich foods
+252,252,Tuberculosis,Stay hydrated
+253,253,Tuberculosis,Consume foods rich in vitamins A and C
+254,254,Tuberculosis,Include zinc-rich foods
+255,255,Tuberculosis,Limit sugary foods and beverages
+256,256,Tuberculosis,Consult a healthcare professional
+257,257,Tuberculosis,Rest and conserve energy
+258,258,Tuberculosis,Gradually resume normal diet
+259,259,Tuberculosis,Follow medical recommendations
+270,270,Pneumonia,Stay hydrated
+271,271,Pneumonia,Include nutrient-rich foods
+272,272,Pneumonia,Consume foods rich in vitamin C and antioxidants
+273,273,Pneumonia,Include zinc-rich foods
+274,274,Pneumonia,Limit sugary foods and beverages
+275,275,Pneumonia,Consume chicken soup
+276,276,Pneumonia,Consult a healthcare professional
+277,277,Pneumonia,Rest and conserve energy
+278,278,Pneumonia,Gradually resume normal diet
+279,279,Pneumonia,Follow medical recommendations
+330,330,Hypoglycemia,Consume complex carbohydrates
+331,331,Hypoglycemia,Include protein-rich foods
+332,332,Hypoglycemia,Stay hydrated
+333,333,Hypoglycemia,Limit sugary foods and beverages
+334,334,Hypoglycemia,Consume regular meals and snacks
+335,335,Hypoglycemia,Consult a healthcare professional
+336,336,Hypoglycemia,Monitor blood sugar levels
+337,337,Hypoglycemia,Follow medical recommendations
+338,338,Hypoglycemia,Engage in regular physical activity
+339,339,Hypoglycemia,Limit alcohol intake
+370,370,Acne,Consume a balanced diet
+371,371,Acne,Limit dairy and high-glycemic foods
+372,372,Acne,Include antioxidants
+373,373,Acne,Stay hydrated
+374,374,Acne,Limit processed foods
+375,375,Acne,Include zinc-rich foods
+376,376,Acne,Consult a skincare professional
+377,377,Acne,Practice good skincare hygiene
+378,378,Acne,Limit sugary foods and beverages
+379,379,Acne,Follow medical recommendations
+380,380,Urinary tract infection,Stay hydrated
+381,381,Urinary tract infection,Consume cranberry products
+382,382,Urinary tract infection,Include vitamin C-rich foods
+383,383,Urinary tract infection,Limit caffeine and alcohol
+384,384,Urinary tract infection,Consume probiotics
+385,385,Urinary tract infection,Avoid spicy and acidic foods
+386,386,Urinary tract infection,Consult a healthcare professional
+387,387,Urinary tract infection,Follow medical recommendations
+388,388,Urinary tract infection,Maintain good hygiene
+389,389,Urinary tract infection,Limit sugary foods and beverages
+390,390,Psoriasis,Consume anti-inflammatory foods
+391,391,Psoriasis,Include omega-3 fatty acids
+392,392,Psoriasis,Include vitamin D analogues
+393,393,Psoriasis,Limit alcohol consumption
+394,394,Psoriasis,Stay hydrated
+395,395,Psoriasis,Consult a healthcare professional
+396,396,Psoriasis,Limit processed foods
+397,397,Psoriasis,Follow medical recommendations
+398,398,Psoriasis,Manage stress
+399,399,Psoriasis,Consider phototherapy under medical guidance
+400,400,Impetigo,Maintain good hygiene
+401,401,Impetigo,Stay hydrated
+402,402,Impetigo,Consume nutrient-rich foods
+403,403,Impetigo,Limit sugary foods and beverages
+404,404,Impetigo,Include foods rich in vitamin C
+405,405,Impetigo,Consult a healthcare professional
+406,406,Impetigo,Follow medical recommendations
+407,407,Impetigo,Avoid scratching
+408,408,Impetigo,Take prescribed antibiotics
+409,409,Impetigo,Practice wound care
